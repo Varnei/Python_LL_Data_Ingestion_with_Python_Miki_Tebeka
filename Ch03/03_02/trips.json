@@ -1,0 +1,9002 @@
+[
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T07:10:55",
+    "dropoff": "2018-11-01T06:43:24",
+    "passengers": 1,
+    "distance": 2.57,
+    "tip": 4.74,
+    "amount": 20.54
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T16:38:25",
+    "dropoff": "2018-10-31T16:50:10",
+    "passengers": 5,
+    "distance": 3.58,
+    "tip": 0,
+    "amount": 13.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T20:23:41",
+    "dropoff": "2018-10-31T20:31:47",
+    "passengers": 1,
+    "distance": 2.39,
+    "tip": 1,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T22:44:24",
+    "dropoff": "2018-10-31T22:48:28",
+    "passengers": 1,
+    "distance": 0.5,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:22:18",
+    "dropoff": "2018-10-31T23:35:30",
+    "passengers": 1,
+    "distance": 1.81,
+    "tip": 2.26,
+    "amount": 13.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:27:39",
+    "dropoff": "2018-10-31T23:44:33",
+    "passengers": 1,
+    "distance": 7.91,
+    "tip": 0,
+    "amount": 24.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:40:55",
+    "dropoff": "2018-10-31T23:46:52",
+    "passengers": 1,
+    "distance": 2.24,
+    "tip": 2.32,
+    "amount": 11.62
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:45:53",
+    "dropoff": "2018-10-31T23:56:44",
+    "passengers": 1,
+    "distance": 2.31,
+    "tip": 0,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:46:42",
+    "dropoff": "2018-10-31T23:52:54",
+    "passengers": 1,
+    "distance": 0.68,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:47:30",
+    "dropoff": "2018-11-01T00:10:33",
+    "passengers": 1,
+    "distance": 1.65,
+    "tip": 2,
+    "amount": 17.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:47:46",
+    "dropoff": "2018-11-01T00:11:08",
+    "passengers": 1,
+    "distance": 3.32,
+    "tip": 0,
+    "amount": 18.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:52:54",
+    "dropoff": "2018-11-01T00:00:35",
+    "passengers": 2,
+    "distance": 1.46,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:56:25",
+    "dropoff": "2018-10-31T23:58:37",
+    "passengers": 1,
+    "distance": 0.58,
+    "tip": 0,
+    "amount": 5.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:56:33",
+    "dropoff": "2018-11-01T00:20:01",
+    "passengers": 1,
+    "distance": 2.23,
+    "tip": 3.36,
+    "amount": 20.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:56:49",
+    "dropoff": "2018-11-01T00:10:30",
+    "passengers": 1,
+    "distance": 2.34,
+    "tip": 0,
+    "amount": 12.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:57:10",
+    "dropoff": "2018-11-01T00:07:26",
+    "passengers": 1,
+    "distance": 4.6,
+    "tip": 3.16,
+    "amount": 18.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:57:42",
+    "dropoff": "2018-11-01T00:07:17",
+    "passengers": 1,
+    "distance": 0.29,
+    "tip": 0,
+    "amount": 8.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:58:26",
+    "dropoff": "2018-11-01T00:31:04",
+    "passengers": 6,
+    "distance": 10.44,
+    "tip": 7.06,
+    "amount": 42.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:58:56",
+    "dropoff": "2018-11-01T00:06:35",
+    "passengers": 1,
+    "distance": 1.51,
+    "tip": 1.32,
+    "amount": 10.12
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:59:13",
+    "dropoff": "2018-11-01T00:03:56",
+    "passengers": 2,
+    "distance": 1.6,
+    "tip": 0,
+    "amount": 8.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:59:18",
+    "dropoff": "2018-11-01T00:19:52",
+    "passengers": 2,
+    "distance": 2.78,
+    "tip": 0,
+    "amount": 16.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-10-31T23:59:47",
+    "dropoff": "2018-11-01T00:24:17",
+    "passengers": 5,
+    "distance": 7.01,
+    "tip": 0,
+    "amount": 25.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:00:00",
+    "dropoff": "2018-11-01T00:07:56",
+    "passengers": 1,
+    "distance": 1.18,
+    "tip": 2.49,
+    "amount": 10.79
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:00:00",
+    "dropoff": "2018-11-01T00:00:00",
+    "passengers": 1,
+    "distance": 4.22,
+    "tip": 0,
+    "amount": 18.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:00:05",
+    "dropoff": "2018-11-01T00:06:13",
+    "passengers": 1,
+    "distance": 1.9,
+    "tip": 1.5,
+    "amount": 10.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:00:06",
+    "dropoff": "2018-11-01T00:13:16",
+    "passengers": 1,
+    "distance": 0.7,
+    "tip": 2,
+    "amount": 12.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:00:12",
+    "dropoff": "2018-11-01T00:07:19",
+    "passengers": 6,
+    "distance": 2.15,
+    "tip": 2.45,
+    "amount": 12.25
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:00:13",
+    "dropoff": "2018-11-01T00:28:53",
+    "passengers": 1,
+    "distance": 7.1,
+    "tip": 5.25,
+    "amount": 31.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:00:24",
+    "dropoff": "2018-11-01T00:22:38",
+    "passengers": 5,
+    "distance": 4.01,
+    "tip": 0,
+    "amount": 19.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:00:26",
+    "dropoff": "2018-11-01T00:55:27",
+    "passengers": 2,
+    "distance": 14.7,
+    "tip": 10.65,
+    "amount": 63.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:00:29",
+    "dropoff": "2018-11-01T00:04:34",
+    "passengers": 1,
+    "distance": 0.73,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:00:29",
+    "dropoff": "2018-11-01T00:35:08",
+    "passengers": 2,
+    "distance": 11.1,
+    "tip": 7.65,
+    "amount": 45.95
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:00:30",
+    "dropoff": "2018-11-01T00:12:05",
+    "passengers": 1,
+    "distance": 2.6,
+    "tip": 2,
+    "amount": 14.8
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:00:32",
+    "dropoff": "2018-11-01T00:20:26",
+    "passengers": 1,
+    "distance": 2.63,
+    "tip": 0,
+    "amount": 15.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:00:34",
+    "dropoff": "2018-11-01T00:17:51",
+    "passengers": 1,
+    "distance": 3.94,
+    "tip": 5,
+    "amount": 21.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:00:35",
+    "dropoff": "2018-11-01T00:06:51",
+    "passengers": 1,
+    "distance": 0.63,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:00:37",
+    "dropoff": "2018-11-01T00:17:36",
+    "passengers": 1,
+    "distance": 8.32,
+    "tip": 5.26,
+    "amount": 31.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:00:38",
+    "dropoff": "2018-11-01T00:11:06",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 1.95,
+    "amount": 11.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:00:58",
+    "dropoff": "2018-11-01T00:04:28",
+    "passengers": 5,
+    "distance": 0.71,
+    "tip": 3,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:00",
+    "dropoff": "2018-11-01T00:08:13",
+    "passengers": 1,
+    "distance": 1.46,
+    "tip": 1.88,
+    "amount": 10.18
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:01:02",
+    "dropoff": "2018-11-01T00:17:59",
+    "passengers": 1,
+    "distance": 0.4,
+    "tip": 1.7,
+    "amount": 14
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:05",
+    "dropoff": "2018-11-01T00:11:55",
+    "passengers": 1,
+    "distance": 1.83,
+    "tip": 0,
+    "amount": 10.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:05",
+    "dropoff": "2018-11-01T00:22:56",
+    "passengers": 3,
+    "distance": 4.49,
+    "tip": 1,
+    "amount": 19.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:12",
+    "dropoff": "2018-11-01T00:22:25",
+    "passengers": 1,
+    "distance": 4.62,
+    "tip": 0,
+    "amount": 19.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:28",
+    "dropoff": "2018-11-01T00:11:35",
+    "passengers": 1,
+    "distance": 1.59,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:32",
+    "dropoff": "2018-11-01T00:11:49",
+    "passengers": 1,
+    "distance": 1.86,
+    "tip": 3.09,
+    "amount": 13.39
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:33",
+    "dropoff": "2018-11-01T00:06:04",
+    "passengers": 4,
+    "distance": 0.8,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:01:36",
+    "dropoff": "2018-11-01T00:16:49",
+    "passengers": 1,
+    "distance": 3.2,
+    "tip": 0,
+    "amount": 14.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:37",
+    "dropoff": "2018-11-01T00:04:27",
+    "passengers": 1,
+    "distance": 0.61,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:01:41",
+    "dropoff": "2018-11-01T00:07:49",
+    "passengers": 2,
+    "distance": 0.5,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:54",
+    "dropoff": "2018-11-01T00:12:51",
+    "passengers": 2,
+    "distance": 3.22,
+    "tip": 0,
+    "amount": 13.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:56",
+    "dropoff": "2018-11-01T00:03:16",
+    "passengers": 1,
+    "distance": 0.08,
+    "tip": 0,
+    "amount": 4.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:57",
+    "dropoff": "2018-11-01T00:12:36",
+    "passengers": 1,
+    "distance": 1.96,
+    "tip": 1.08,
+    "amount": 11.88
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:01:57",
+    "dropoff": "2018-11-01T00:12:58",
+    "passengers": 1,
+    "distance": 0.59,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:02:02",
+    "dropoff": "2018-11-01T00:07:02",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:02:04",
+    "dropoff": "2018-11-01T00:13:30",
+    "passengers": 1,
+    "distance": 2.6,
+    "tip": 3.8,
+    "amount": 16.6
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:02:06",
+    "dropoff": "2018-11-01T00:26:27",
+    "passengers": 2,
+    "distance": 3.5,
+    "tip": 3.85,
+    "amount": 23.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:07",
+    "dropoff": "2018-11-01T00:16:45",
+    "passengers": 1,
+    "distance": 4.23,
+    "tip": 3.26,
+    "amount": 19.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:11",
+    "dropoff": "2018-11-01T00:20:02",
+    "passengers": 2,
+    "distance": 2.56,
+    "tip": 0,
+    "amount": 14.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:14",
+    "dropoff": "2018-11-01T00:10:24",
+    "passengers": 3,
+    "distance": 1.48,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:14",
+    "dropoff": "2018-11-01T00:45:08",
+    "passengers": 3,
+    "distance": 12.13,
+    "tip": 1,
+    "amount": 41.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:16",
+    "dropoff": "2018-11-01T00:23:05",
+    "passengers": 1,
+    "distance": 10.48,
+    "tip": 6.16,
+    "amount": 36.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:02:17",
+    "dropoff": "2018-11-01T00:07:52",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:18",
+    "dropoff": "2018-11-01T00:27:12",
+    "passengers": 1,
+    "distance": 9.52,
+    "tip": 7.58,
+    "amount": 37.88
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:02:21",
+    "dropoff": "2018-11-01T00:15:42",
+    "passengers": 1,
+    "distance": 1.8,
+    "tip": 2.35,
+    "amount": 14.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:22",
+    "dropoff": "2018-11-01T00:40:21",
+    "passengers": 1,
+    "distance": 6.91,
+    "tip": 5.96,
+    "amount": 35.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:24",
+    "dropoff": "2018-11-01T00:31:04",
+    "passengers": 1,
+    "distance": 7.86,
+    "tip": 7.08,
+    "amount": 35.38
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:24",
+    "dropoff": "2018-11-01T00:08:04",
+    "passengers": 1,
+    "distance": 0.93,
+    "tip": 1.46,
+    "amount": 8.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:02:27",
+    "dropoff": "2018-11-01T00:07:55",
+    "passengers": 1,
+    "distance": 0.5,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:02:30",
+    "dropoff": "2018-11-01T00:18:34",
+    "passengers": 3,
+    "distance": 2.2,
+    "tip": 1,
+    "amount": 14.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:31",
+    "dropoff": "2018-11-01T00:29:46",
+    "passengers": 1,
+    "distance": 5.77,
+    "tip": 0,
+    "amount": 23.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:02:32",
+    "dropoff": "2018-11-01T00:12:04",
+    "passengers": 1,
+    "distance": 2.3,
+    "tip": 0,
+    "amount": 11.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:02:39",
+    "dropoff": "2018-11-01T00:15:04",
+    "passengers": 1,
+    "distance": 2.3,
+    "tip": 1,
+    "amount": 12.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:02:45",
+    "dropoff": "2018-11-01T00:07:43",
+    "passengers": 1,
+    "distance": 0.7,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:46",
+    "dropoff": "2018-11-01T00:13:10",
+    "passengers": 1,
+    "distance": 2.07,
+    "tip": 0,
+    "amount": 10.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:02:49",
+    "dropoff": "2018-11-01T00:12:08",
+    "passengers": 1,
+    "distance": 1.8,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:51",
+    "dropoff": "2018-11-01T00:07:00",
+    "passengers": 1,
+    "distance": 0.86,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:57",
+    "dropoff": "2018-11-01T00:25:44",
+    "passengers": 1,
+    "distance": 3.53,
+    "tip": 3.66,
+    "amount": 21.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:58",
+    "dropoff": "2018-11-01T00:19:12",
+    "passengers": 3,
+    "distance": 4.73,
+    "tip": 0,
+    "amount": 18.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:02:59",
+    "dropoff": "2018-11-01T00:07:43",
+    "passengers": 3,
+    "distance": 0.25,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:03:03",
+    "dropoff": "2018-11-01T00:05:22",
+    "passengers": 1,
+    "distance": 0.4,
+    "tip": 0.95,
+    "amount": 5.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:03:06",
+    "dropoff": "2018-11-01T00:08:44",
+    "passengers": 1,
+    "distance": 0.35,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:03:12",
+    "dropoff": "2018-11-01T00:41:12",
+    "passengers": 2,
+    "distance": 9.98,
+    "tip": 0,
+    "amount": 34.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:03:22",
+    "dropoff": "2018-11-01T00:12:33",
+    "passengers": 2,
+    "distance": 2.16,
+    "tip": 0,
+    "amount": 10.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:03:22",
+    "dropoff": "2018-11-01T00:12:36",
+    "passengers": 1,
+    "distance": 1.8,
+    "tip": 2,
+    "amount": 12.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:03:24",
+    "dropoff": "2018-11-01T00:12:29",
+    "passengers": 1,
+    "distance": 1.05,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:03:28",
+    "dropoff": "2018-11-01T00:08:46",
+    "passengers": 1,
+    "distance": 1.7,
+    "tip": 1.65,
+    "amount": 9.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:03:28",
+    "dropoff": "2018-11-01T00:08:53",
+    "passengers": 1,
+    "distance": 0.89,
+    "tip": 1.36,
+    "amount": 8.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:03:29",
+    "dropoff": "2018-11-01T00:52:00",
+    "passengers": 2,
+    "distance": 13.91,
+    "tip": 0,
+    "amount": 47.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:03:32",
+    "dropoff": "2018-11-01T00:15:08",
+    "passengers": 1,
+    "distance": 0.1,
+    "tip": 1.85,
+    "amount": 11.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:03:37",
+    "dropoff": "2018-11-01T00:15:16",
+    "passengers": 1,
+    "distance": 0.5,
+    "tip": 2.75,
+    "amount": 12.05
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:03:45",
+    "dropoff": "2018-11-01T00:20:23",
+    "passengers": 1,
+    "distance": 2.17,
+    "tip": 1,
+    "amount": 14.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:03:46",
+    "dropoff": "2018-11-01T00:09:58",
+    "passengers": 2,
+    "distance": 0.84,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:03:50",
+    "dropoff": "2018-11-01T00:15:07",
+    "passengers": 2,
+    "distance": 1.38,
+    "tip": 1.96,
+    "amount": 11.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:03:51",
+    "dropoff": "2018-11-01T00:21:55",
+    "passengers": 2,
+    "distance": 6.64,
+    "tip": 4.66,
+    "amount": 27.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:03:57",
+    "dropoff": "2018-11-01T00:25:07",
+    "passengers": 1,
+    "distance": 5.36,
+    "tip": 3.96,
+    "amount": 23.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:03:57",
+    "dropoff": "2018-11-01T00:10:58",
+    "passengers": 1,
+    "distance": 1.8,
+    "tip": 2.2,
+    "amount": 11
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:03:59",
+    "dropoff": "2018-11-01T00:23:33",
+    "passengers": 2,
+    "distance": 3.9,
+    "tip": 2.5,
+    "amount": 19.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:16",
+    "dropoff": "2018-11-01T00:30:58",
+    "passengers": 6,
+    "distance": 8.91,
+    "tip": 0,
+    "amount": 30.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:19",
+    "dropoff": "2018-11-01T00:12:25",
+    "passengers": 5,
+    "distance": 2,
+    "tip": 2.45,
+    "amount": 12.25
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:20",
+    "dropoff": "2018-11-01T00:38:01",
+    "passengers": 1,
+    "distance": 8.42,
+    "tip": 9.39,
+    "amount": 40.69
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:20",
+    "dropoff": "2018-11-01T00:31:31",
+    "passengers": 1,
+    "distance": 4.95,
+    "tip": 4.36,
+    "amount": 26.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:04:23",
+    "dropoff": "2018-11-01T00:14:54",
+    "passengers": 1,
+    "distance": 1.2,
+    "tip": 0.1,
+    "amount": 9.9
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:24",
+    "dropoff": "2018-11-01T00:07:44",
+    "passengers": 2,
+    "distance": 0.27,
+    "tip": 2,
+    "amount": 7.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:04:27",
+    "dropoff": "2018-11-01T00:10:56",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:30",
+    "dropoff": "2018-11-01T00:41:32",
+    "passengers": 5,
+    "distance": 5.38,
+    "tip": 5,
+    "amount": 32.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:30",
+    "dropoff": "2018-11-01T00:16:29",
+    "passengers": 1,
+    "distance": 2.68,
+    "tip": 0,
+    "amount": 12.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:38",
+    "dropoff": "2018-11-01T00:26:45",
+    "passengers": 1,
+    "distance": 8.31,
+    "tip": 5.46,
+    "amount": 32.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:04:41",
+    "dropoff": "2018-11-01T00:21:45",
+    "passengers": 1,
+    "distance": 6.6,
+    "tip": 4.45,
+    "amount": 26.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:41",
+    "dropoff": "2018-11-01T00:15:14",
+    "passengers": 1,
+    "distance": 2.08,
+    "tip": 1,
+    "amount": 11.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:04:42",
+    "dropoff": "2018-11-01T00:34:45",
+    "passengers": 1,
+    "distance": 2.1,
+    "tip": 0,
+    "amount": 19.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:50",
+    "dropoff": "2018-11-01T00:48:04",
+    "passengers": 2,
+    "distance": 6.28,
+    "tip": 6.16,
+    "amount": 36.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:04:51",
+    "dropoff": "2018-11-01T00:19:22",
+    "passengers": 2,
+    "distance": 4.3,
+    "tip": 0,
+    "amount": 16.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:04:52",
+    "dropoff": "2018-11-01T00:12:33",
+    "passengers": 1,
+    "distance": 0.4,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:04:53",
+    "dropoff": "2018-11-01T00:14:28",
+    "passengers": 1,
+    "distance": 1.7,
+    "tip": 2.45,
+    "amount": 12.25
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:53",
+    "dropoff": "2018-11-01T00:31:58",
+    "passengers": 1,
+    "distance": 3.09,
+    "tip": 3.86,
+    "amount": 23.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:04:57",
+    "dropoff": "2018-11-01T00:22:51",
+    "passengers": 3,
+    "distance": 3.03,
+    "tip": 3.06,
+    "amount": 18.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:05:01",
+    "dropoff": "2018-11-01T00:06:47",
+    "passengers": 1,
+    "distance": 0.4,
+    "tip": 0.95,
+    "amount": 5.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:05:01",
+    "dropoff": "2018-11-01T00:41:08",
+    "passengers": 4,
+    "distance": 10.06,
+    "tip": 7.26,
+    "amount": 43.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:05:08",
+    "dropoff": "2018-11-01T00:11:07",
+    "passengers": 3,
+    "distance": 0.88,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:05:11",
+    "dropoff": "2018-11-01T00:08:43",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:05:15",
+    "dropoff": "2018-11-01T00:15:27",
+    "passengers": 3,
+    "distance": 2.18,
+    "tip": 2.7,
+    "amount": 14
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:05:16",
+    "dropoff": "2018-11-01T00:19:22",
+    "passengers": 3,
+    "distance": 3.1,
+    "tip": 2.86,
+    "amount": 17.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:05:17",
+    "dropoff": "2018-11-01T00:28:59",
+    "passengers": 1,
+    "distance": 3.5,
+    "tip": 0,
+    "amount": 18.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:05:18",
+    "dropoff": "2018-11-01T00:19:49",
+    "passengers": 1,
+    "distance": 3.91,
+    "tip": 3.26,
+    "amount": 19.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:05:19",
+    "dropoff": "2018-11-01T00:19:45",
+    "passengers": 1,
+    "distance": 6.41,
+    "tip": 4.26,
+    "amount": 25.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:05:24",
+    "dropoff": "2018-11-01T00:20:05",
+    "passengers": 1,
+    "distance": 2.09,
+    "tip": 2.46,
+    "amount": 14.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:05:25",
+    "dropoff": "2018-11-01T00:13:55",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 1.75,
+    "amount": 10.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:05:28",
+    "dropoff": "2018-11-01T00:14:50",
+    "passengers": 1,
+    "distance": 1.6,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:05:32",
+    "dropoff": "2018-11-01T00:37:49",
+    "passengers": 2,
+    "distance": 10.7,
+    "tip": 8.2,
+    "amount": 49.26
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:05:40",
+    "dropoff": "2018-11-01T00:17:01",
+    "passengers": 3,
+    "distance": 1.43,
+    "tip": 0,
+    "amount": 10.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:05:43",
+    "dropoff": "2018-11-01T00:13:45",
+    "passengers": 1,
+    "distance": 0.6,
+    "tip": 1.55,
+    "amount": 9.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:05:49",
+    "dropoff": "2018-11-01T00:22:48",
+    "passengers": 1,
+    "distance": 2.9,
+    "tip": 2.85,
+    "amount": 17.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:05:50",
+    "dropoff": "2018-11-01T00:22:50",
+    "passengers": 1,
+    "distance": 2.8,
+    "tip": 2.85,
+    "amount": 17.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:05:57",
+    "dropoff": "2018-11-01T00:16:43",
+    "passengers": 1,
+    "distance": 2.33,
+    "tip": 2.26,
+    "amount": 13.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:06:01",
+    "dropoff": "2018-11-01T00:15:08",
+    "passengers": 2,
+    "distance": 1.77,
+    "tip": 1.96,
+    "amount": 11.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:06:02",
+    "dropoff": "2018-11-01T00:09:52",
+    "passengers": 1,
+    "distance": 0.23,
+    "tip": 1.06,
+    "amount": 6.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:06:06",
+    "dropoff": "2018-11-01T00:24:01",
+    "passengers": 0,
+    "distance": 2.8,
+    "tip": 0,
+    "amount": 14.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:06:08",
+    "dropoff": "2018-11-01T00:37:43",
+    "passengers": 1,
+    "distance": 11.58,
+    "tip": 0,
+    "amount": 36.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:06:08",
+    "dropoff": "2018-11-01T00:13:08",
+    "passengers": 0,
+    "distance": 0.7,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:06:11",
+    "dropoff": "2018-11-01T00:22:10",
+    "passengers": 4,
+    "distance": 4.37,
+    "tip": 3.46,
+    "amount": 20.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:06:15",
+    "dropoff": "2018-11-01T00:28:23",
+    "passengers": 1,
+    "distance": 6.93,
+    "tip": 4.86,
+    "amount": 29.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:06:29",
+    "dropoff": "2018-11-01T00:35:08",
+    "passengers": 1,
+    "distance": 9.45,
+    "tip": 0,
+    "amount": 31.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:06:36",
+    "dropoff": "2018-11-01T00:12:03",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:06:47",
+    "dropoff": "2018-11-01T00:19:23",
+    "passengers": 5,
+    "distance": 2.41,
+    "tip": 0,
+    "amount": 11.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:06:53",
+    "dropoff": "2018-11-01T00:11:41",
+    "passengers": 1,
+    "distance": 1.32,
+    "tip": 1,
+    "amount": 8.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:06:55",
+    "dropoff": "2018-11-01T00:25:35",
+    "passengers": 1,
+    "distance": 4.37,
+    "tip": 3.56,
+    "amount": 21.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:06:57",
+    "dropoff": "2018-11-01T00:29:22",
+    "passengers": 6,
+    "distance": 0.56,
+    "tip": 0,
+    "amount": 14.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:00",
+    "dropoff": "2018-11-01T00:27:12",
+    "passengers": 2,
+    "distance": 5.1,
+    "tip": 0,
+    "amount": 20.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:07:07",
+    "dropoff": "2018-11-01T00:58:30",
+    "passengers": 1,
+    "distance": 14.3,
+    "tip": 5,
+    "amount": 52.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:11",
+    "dropoff": "2018-11-01T00:28:35",
+    "passengers": 5,
+    "distance": 4.3,
+    "tip": 0,
+    "amount": 23.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:16",
+    "dropoff": "2018-11-01T00:31:06",
+    "passengers": 2,
+    "distance": 3.32,
+    "tip": 3.56,
+    "amount": 21.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:16",
+    "dropoff": "2018-11-01T00:18:12",
+    "passengers": 2,
+    "distance": 3.73,
+    "tip": 2,
+    "amount": 16.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:07:17",
+    "dropoff": "2018-11-01T00:07:40",
+    "passengers": 1,
+    "distance": 3.7,
+    "tip": 0,
+    "amount": 3.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:07:18",
+    "dropoff": "2018-11-01T00:27:09",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 3.55,
+    "amount": 17.85
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:18",
+    "dropoff": "2018-11-01T00:15:37",
+    "passengers": 6,
+    "distance": 1.56,
+    "tip": 0,
+    "amount": 8.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:23",
+    "dropoff": "2018-11-01T00:14:08",
+    "passengers": 1,
+    "distance": 1.15,
+    "tip": 1.56,
+    "amount": 9.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:24",
+    "dropoff": "2018-11-01T00:27:05",
+    "passengers": 1,
+    "distance": 1.77,
+    "tip": 2.86,
+    "amount": 17.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:29",
+    "dropoff": "2018-11-01T00:19:54",
+    "passengers": 2,
+    "distance": 2.68,
+    "tip": 2.46,
+    "amount": 14.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:40",
+    "dropoff": "2018-11-01T00:42:33",
+    "passengers": 3,
+    "distance": 8.74,
+    "tip": 0,
+    "amount": 34.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:46",
+    "dropoff": "2018-11-01T00:28:09",
+    "passengers": 1,
+    "distance": 4.11,
+    "tip": 3.46,
+    "amount": 20.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:07:46",
+    "dropoff": "2018-11-01T00:19:21",
+    "passengers": 1,
+    "distance": 1.8,
+    "tip": 0,
+    "amount": 11.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:07:47",
+    "dropoff": "2018-11-01T00:17:42",
+    "passengers": 2,
+    "distance": 2.3,
+    "tip": 0,
+    "amount": 10.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:48",
+    "dropoff": "2018-11-01T00:14:48",
+    "passengers": 1,
+    "distance": 0.87,
+    "tip": 1,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:51",
+    "dropoff": "2018-11-01T00:11:28",
+    "passengers": 1,
+    "distance": 0.98,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:51",
+    "dropoff": "2018-11-01T00:18:17",
+    "passengers": 1,
+    "distance": 2.79,
+    "tip": 2.36,
+    "amount": 14.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:07:55",
+    "dropoff": "2018-11-01T00:44:15",
+    "passengers": 1,
+    "distance": 18.6,
+    "tip": 10.65,
+    "amount": 63.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:07:59",
+    "dropoff": "2018-11-01T00:14:30",
+    "passengers": 2,
+    "distance": 1.64,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:07",
+    "dropoff": "2018-11-01T00:17:56",
+    "passengers": 6,
+    "distance": 2.96,
+    "tip": 2.36,
+    "amount": 14.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:14",
+    "dropoff": "2018-11-01T00:12:52",
+    "passengers": 1,
+    "distance": 0.83,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:14",
+    "dropoff": "2018-11-01T00:23:57",
+    "passengers": 4,
+    "distance": 2.84,
+    "tip": 0,
+    "amount": 13.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:16",
+    "dropoff": "2018-11-01T00:18:11",
+    "passengers": 1,
+    "distance": 3.03,
+    "tip": 0,
+    "amount": 12.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:08:16",
+    "dropoff": "2018-11-01T00:21:53",
+    "passengers": 1,
+    "distance": 4.2,
+    "tip": 0,
+    "amount": 15.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:19",
+    "dropoff": "2018-11-01T00:19:32",
+    "passengers": 1,
+    "distance": 4.44,
+    "tip": 2.44,
+    "amount": 18.74
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:08:21",
+    "dropoff": "2018-11-01T00:18:46",
+    "passengers": 1,
+    "distance": 2.9,
+    "tip": 2.55,
+    "amount": 15.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:08:26",
+    "dropoff": "2018-11-01T00:17:48",
+    "passengers": 1,
+    "distance": 2,
+    "tip": 2.05,
+    "amount": 12.35
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:26",
+    "dropoff": "2018-11-01T00:10:10",
+    "passengers": 6,
+    "distance": 0.41,
+    "tip": 1.2,
+    "amount": 6
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:08:32",
+    "dropoff": "2018-11-01T00:22:55",
+    "passengers": 1,
+    "distance": 3.87,
+    "tip": 2,
+    "amount": 17.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:34",
+    "dropoff": "2018-11-01T00:14:25",
+    "passengers": 1,
+    "distance": 2.32,
+    "tip": 1.96,
+    "amount": 11.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:36",
+    "dropoff": "2018-11-01T00:13:29",
+    "passengers": 1,
+    "distance": 0.76,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:08:37",
+    "dropoff": "2018-11-01T00:31:45",
+    "passengers": 1,
+    "distance": 3.9,
+    "tip": 3,
+    "amount": 21.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:40",
+    "dropoff": "2018-11-01T00:21:33",
+    "passengers": 1,
+    "distance": 1.78,
+    "tip": 0,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:46",
+    "dropoff": "2018-11-01T00:20:28",
+    "passengers": 1,
+    "distance": 0.25,
+    "tip": 1.96,
+    "amount": 11.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:47",
+    "dropoff": "2018-11-01T00:15:00",
+    "passengers": 1,
+    "distance": 0.81,
+    "tip": 1.36,
+    "amount": 8.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:53",
+    "dropoff": "2018-11-01T00:14:12",
+    "passengers": 2,
+    "distance": 0.98,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:59",
+    "dropoff": "2018-11-01T00:21:43",
+    "passengers": 1,
+    "distance": 2.61,
+    "tip": 0,
+    "amount": 12.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:08:59",
+    "dropoff": "2018-11-01T00:23:13",
+    "passengers": 6,
+    "distance": 2.98,
+    "tip": 1.5,
+    "amount": 15.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:09:01",
+    "dropoff": "2018-11-01T00:21:43",
+    "passengers": 1,
+    "distance": 1.7,
+    "tip": 1,
+    "amount": 11.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:09:19",
+    "dropoff": "2018-11-01T00:27:19",
+    "passengers": 1,
+    "distance": 0.2,
+    "tip": 3.08,
+    "amount": 15.38
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:09:23",
+    "dropoff": "2018-11-01T00:12:50",
+    "passengers": 1,
+    "distance": 0.75,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:09:26",
+    "dropoff": "2018-11-01T00:24:47",
+    "passengers": 1,
+    "distance": 2.8,
+    "tip": 1,
+    "amount": 14.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:09:27",
+    "dropoff": "2018-11-01T00:48:43",
+    "passengers": 1,
+    "distance": 8.1,
+    "tip": 0,
+    "amount": 32.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:09:33",
+    "dropoff": "2018-11-01T00:23:41",
+    "passengers": 1,
+    "distance": 4.3,
+    "tip": 2,
+    "amount": 17.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:09:36",
+    "dropoff": "2018-11-01T00:24:03",
+    "passengers": 1,
+    "distance": 1.55,
+    "tip": 2.26,
+    "amount": 13.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:09:38",
+    "dropoff": "2018-11-01T00:13:45",
+    "passengers": 2,
+    "distance": 0.7,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:09:42",
+    "dropoff": "2018-11-01T00:18:40",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 2.6,
+    "amount": 11.4
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:09:44",
+    "dropoff": "2018-11-01T00:14:20",
+    "passengers": 3,
+    "distance": 1.02,
+    "tip": 1.46,
+    "amount": 8.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:09:46",
+    "dropoff": "2018-11-01T00:18:10",
+    "passengers": 1,
+    "distance": 1.22,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:09:51",
+    "dropoff": "2018-11-01T00:13:59",
+    "passengers": 1,
+    "distance": 0.6,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:09:51",
+    "dropoff": "2018-11-01T00:24:15",
+    "passengers": 2,
+    "distance": 1.8,
+    "tip": 1,
+    "amount": 12.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:09:53",
+    "dropoff": "2018-11-01T00:10:14",
+    "passengers": 1,
+    "distance": 0,
+    "tip": 4.5,
+    "amount": 40.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:09:58",
+    "dropoff": "2018-11-01T00:27:07",
+    "passengers": 6,
+    "distance": 5.23,
+    "tip": 3.86,
+    "amount": 23.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:09:59",
+    "dropoff": "2018-11-01T00:13:51",
+    "passengers": 1,
+    "distance": 0.45,
+    "tip": 1.45,
+    "amount": 7.25
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:09:59",
+    "dropoff": "2018-11-01T00:13:58",
+    "passengers": 1,
+    "distance": 0.66,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:04",
+    "dropoff": "2018-11-01T00:15:53",
+    "passengers": 1,
+    "distance": 1.02,
+    "tip": 1.46,
+    "amount": 8.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:10:12",
+    "dropoff": "2018-11-01T00:19:12",
+    "passengers": 2,
+    "distance": 2.1,
+    "tip": 2.05,
+    "amount": 12.35
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:16",
+    "dropoff": "2018-11-01T00:26:33",
+    "passengers": 1,
+    "distance": 3.35,
+    "tip": 3.16,
+    "amount": 18.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:10:17",
+    "dropoff": "2018-11-01T00:28:43",
+    "passengers": 1,
+    "distance": 4.2,
+    "tip": 0,
+    "amount": 17.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:10:21",
+    "dropoff": "2018-11-01T00:12:38",
+    "passengers": 1,
+    "distance": 0.3,
+    "tip": 0.95,
+    "amount": 5.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:21",
+    "dropoff": "2018-11-01T00:13:13",
+    "passengers": 1,
+    "distance": 0.02,
+    "tip": 0,
+    "amount": 4.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:10:24",
+    "dropoff": "2018-11-01T00:32:35",
+    "passengers": 1,
+    "distance": 4.3,
+    "tip": 0,
+    "amount": 19.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:30",
+    "dropoff": "2018-11-01T00:20:17",
+    "passengers": 1,
+    "distance": 1.35,
+    "tip": 2.79,
+    "amount": 12.09
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:34",
+    "dropoff": "2018-11-01T00:31:51",
+    "passengers": 6,
+    "distance": 6.17,
+    "tip": 4.46,
+    "amount": 26.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:34",
+    "dropoff": "2018-11-01T00:21:37",
+    "passengers": 1,
+    "distance": 4.21,
+    "tip": 0,
+    "amount": 14.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:35",
+    "dropoff": "2018-11-01T00:20:09",
+    "passengers": 3,
+    "distance": 1.84,
+    "tip": 1.5,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:41",
+    "dropoff": "2018-11-01T00:24:36",
+    "passengers": 1,
+    "distance": 1.42,
+    "tip": 0,
+    "amount": 11.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:10:41",
+    "dropoff": "2018-11-01T00:31:56",
+    "passengers": 2,
+    "distance": 5.2,
+    "tip": 3.85,
+    "amount": 23.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:10:41",
+    "dropoff": "2018-11-01T00:18:09",
+    "passengers": 2,
+    "distance": 1.4,
+    "tip": 1,
+    "amount": 9.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:41",
+    "dropoff": "2018-11-01T00:31:46",
+    "passengers": 1,
+    "distance": 2.31,
+    "tip": 3.06,
+    "amount": 18.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:42",
+    "dropoff": "2018-11-01T00:23:07",
+    "passengers": 1,
+    "distance": 2.13,
+    "tip": 1,
+    "amount": 12.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:10:43",
+    "dropoff": "2018-11-01T00:19:05",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 1.65,
+    "amount": 9.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:51",
+    "dropoff": "2018-11-01T00:20:13",
+    "passengers": 1,
+    "distance": 1.38,
+    "tip": 1.08,
+    "amount": 9.88
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:10:52",
+    "dropoff": "2018-11-01T00:11:52",
+    "passengers": 1,
+    "distance": 0,
+    "tip": 0,
+    "amount": 20.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:53",
+    "dropoff": "2018-11-01T00:16:22",
+    "passengers": 1,
+    "distance": 1.76,
+    "tip": 2.08,
+    "amount": 10.38
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:10:54",
+    "dropoff": "2018-11-01T00:14:11",
+    "passengers": 1,
+    "distance": 0.7,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:10:54",
+    "dropoff": "2018-11-01T00:21:03",
+    "passengers": 1,
+    "distance": 2.18,
+    "tip": 2.06,
+    "amount": 12.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:10:55",
+    "dropoff": "2018-11-01T00:25:21",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 2.25,
+    "amount": 13.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:00",
+    "dropoff": "2018-11-01T00:15:37",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:11:01",
+    "dropoff": "2018-11-01T00:13:27",
+    "passengers": 1,
+    "distance": 0.62,
+    "tip": 1.06,
+    "amount": 6.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:01",
+    "dropoff": "2018-11-01T00:16:52",
+    "passengers": 2,
+    "distance": 0.6,
+    "tip": 2,
+    "amount": 9.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:11:03",
+    "dropoff": "2018-11-01T00:15:51",
+    "passengers": 1,
+    "distance": 1.24,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:06",
+    "dropoff": "2018-11-01T00:26:19",
+    "passengers": 1,
+    "distance": 3.1,
+    "tip": 2.85,
+    "amount": 17.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:11:07",
+    "dropoff": "2018-11-01T00:23:20",
+    "passengers": 1,
+    "distance": 2.76,
+    "tip": 0,
+    "amount": 12.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:11:12",
+    "dropoff": "2018-11-01T00:20:57",
+    "passengers": 1,
+    "distance": 0.44,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:11:13",
+    "dropoff": "2018-11-01T00:27:12",
+    "passengers": 2,
+    "distance": 3.69,
+    "tip": 1,
+    "amount": 16.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:21",
+    "dropoff": "2018-11-01T00:18:30",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 1.95,
+    "amount": 9.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:11:26",
+    "dropoff": "2018-11-01T00:22:21",
+    "passengers": 1,
+    "distance": 0.41,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:28",
+    "dropoff": "2018-11-01T00:19:59",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:11:30",
+    "dropoff": "2018-11-01T00:28:03",
+    "passengers": 2,
+    "distance": 3.93,
+    "tip": 3.26,
+    "amount": 19.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:36",
+    "dropoff": "2018-11-01T00:41:47",
+    "passengers": 1,
+    "distance": 3.6,
+    "tip": 4.15,
+    "amount": 24.95
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:38",
+    "dropoff": "2018-11-01T00:27:38",
+    "passengers": 4,
+    "distance": 2.2,
+    "tip": 0.01,
+    "amount": 13.81
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:39",
+    "dropoff": "2018-11-01T00:16:10",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:40",
+    "dropoff": "2018-11-01T00:23:02",
+    "passengers": 1,
+    "distance": 1.7,
+    "tip": 0,
+    "amount": 10.8
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:11:40",
+    "dropoff": "2018-11-01T00:45:19",
+    "passengers": 1,
+    "distance": 8.85,
+    "tip": 6.46,
+    "amount": 38.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:42",
+    "dropoff": "2018-11-01T00:21:54",
+    "passengers": 1,
+    "distance": 3.1,
+    "tip": 1.7,
+    "amount": 14
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:11:43",
+    "dropoff": "2018-11-01T00:18:54",
+    "passengers": 1,
+    "distance": 1.38,
+    "tip": 0,
+    "amount": 8.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:52",
+    "dropoff": "2018-11-01T00:29:25",
+    "passengers": 2,
+    "distance": 2.4,
+    "tip": 1,
+    "amount": 14.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:11:56",
+    "dropoff": "2018-11-01T00:19:54",
+    "passengers": 1,
+    "distance": 1.1,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:11:59",
+    "dropoff": "2018-11-01T00:23:38",
+    "passengers": 1,
+    "distance": 1.78,
+    "tip": 2.16,
+    "amount": 12.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:12:02",
+    "dropoff": "2018-11-01T00:20:12",
+    "passengers": 3,
+    "distance": 0.96,
+    "tip": 0,
+    "amount": 8.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:12:06",
+    "dropoff": "2018-11-01T00:34:16",
+    "passengers": 1,
+    "distance": 1.72,
+    "tip": 0,
+    "amount": 15.8
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:12:20",
+    "dropoff": "2018-11-01T00:25:03",
+    "passengers": 1,
+    "distance": 2.88,
+    "tip": 2.66,
+    "amount": 15.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:12:21",
+    "dropoff": "2018-11-01T00:41:52",
+    "passengers": 2,
+    "distance": 5.9,
+    "tip": 5.05,
+    "amount": 30.35
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:12:22",
+    "dropoff": "2018-11-01T00:18:01",
+    "passengers": 5,
+    "distance": 0.73,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:12:24",
+    "dropoff": "2018-11-01T00:33:28",
+    "passengers": 1,
+    "distance": 4.74,
+    "tip": 0,
+    "amount": 19.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:12:25",
+    "dropoff": "2018-11-01T00:34:22",
+    "passengers": 2,
+    "distance": 5,
+    "tip": 0,
+    "amount": 19.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:12:26",
+    "dropoff": "2018-11-01T00:16:59",
+    "passengers": 1,
+    "distance": 0.7,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:12:30",
+    "dropoff": "2018-11-01T00:29:28",
+    "passengers": 1,
+    "distance": 4.1,
+    "tip": 3.35,
+    "amount": 20.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:12:30",
+    "dropoff": "2018-11-01T00:23:11",
+    "passengers": 1,
+    "distance": 0.7,
+    "tip": 1.85,
+    "amount": 11.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:12:31",
+    "dropoff": "2018-11-01T00:21:19",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:12:31",
+    "dropoff": "2018-11-01T00:22:14",
+    "passengers": 1,
+    "distance": 2.1,
+    "tip": 3.05,
+    "amount": 13.35
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:12:38",
+    "dropoff": "2018-11-01T00:22:24",
+    "passengers": 1,
+    "distance": 0.3,
+    "tip": 0,
+    "amount": 8.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:12:39",
+    "dropoff": "2018-11-01T00:27:15",
+    "passengers": 2,
+    "distance": 3.7,
+    "tip": 3.15,
+    "amount": 18.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:12:39",
+    "dropoff": "2018-11-01T00:25:07",
+    "passengers": 1,
+    "distance": 3.59,
+    "tip": 0,
+    "amount": 14.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:12:56",
+    "dropoff": "2018-11-01T00:19:06",
+    "passengers": 1,
+    "distance": 0.6,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:12:58",
+    "dropoff": "2018-11-01T00:30:02",
+    "passengers": 1,
+    "distance": 4.13,
+    "tip": 3.36,
+    "amount": 20.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:12:59",
+    "dropoff": "2018-11-01T00:21:17",
+    "passengers": 1,
+    "distance": 0.1,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:04",
+    "dropoff": "2018-11-01T00:22:58",
+    "passengers": 2,
+    "distance": 1.08,
+    "tip": 0.46,
+    "amount": 9.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:05",
+    "dropoff": "2018-11-01T00:29:39",
+    "passengers": 1,
+    "distance": 4.33,
+    "tip": 2,
+    "amount": 19.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:07",
+    "dropoff": "2018-11-01T00:22:13",
+    "passengers": 4,
+    "distance": 1.12,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:13",
+    "dropoff": "2018-11-01T00:24:41",
+    "passengers": 1,
+    "distance": 1.85,
+    "tip": 2.16,
+    "amount": 12.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:14",
+    "dropoff": "2018-11-01T00:51:43",
+    "passengers": 6,
+    "distance": 9.31,
+    "tip": 3,
+    "amount": 35.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:15",
+    "dropoff": "2018-11-01T00:27:29",
+    "passengers": 1,
+    "distance": 2.21,
+    "tip": 0,
+    "amount": 12.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:16",
+    "dropoff": "2018-11-01T00:23:29",
+    "passengers": 1,
+    "distance": 4.48,
+    "tip": 3.06,
+    "amount": 18.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:24",
+    "dropoff": "2018-11-01T00:41:57",
+    "passengers": 1,
+    "distance": 10.13,
+    "tip": 6.86,
+    "amount": 41.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:13:27",
+    "dropoff": "2018-11-01T00:26:02",
+    "passengers": 1,
+    "distance": 1.6,
+    "tip": 3.2,
+    "amount": 14
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:27",
+    "dropoff": "2018-11-01T00:23:58",
+    "passengers": 1,
+    "distance": 1.4,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:28",
+    "dropoff": "2018-11-01T00:41:20",
+    "passengers": 1,
+    "distance": 5.59,
+    "tip": 0,
+    "amount": 22.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:29",
+    "dropoff": "2018-11-01T00:14:49",
+    "passengers": 6,
+    "distance": 0.06,
+    "tip": 0,
+    "amount": 4.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:41",
+    "dropoff": "2018-11-01T00:18:11",
+    "passengers": 1,
+    "distance": 1.19,
+    "tip": 1.46,
+    "amount": 8.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:43",
+    "dropoff": "2018-11-01T00:42:29",
+    "passengers": 3,
+    "distance": 6.18,
+    "tip": 0,
+    "amount": 24.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:13:46",
+    "dropoff": "2018-11-01T00:23:18",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:13:52",
+    "dropoff": "2018-11-01T00:17:21",
+    "passengers": 1,
+    "distance": 0.6,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:54",
+    "dropoff": "2018-11-01T00:28:46",
+    "passengers": 1,
+    "distance": 3.32,
+    "tip": 2.86,
+    "amount": 17.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:13:58",
+    "dropoff": "2018-11-01T00:15:13",
+    "passengers": 1,
+    "distance": 0.51,
+    "tip": 0,
+    "amount": 4.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:14:00",
+    "dropoff": "2018-11-01T00:27:33",
+    "passengers": 3,
+    "distance": 3.8,
+    "tip": 2.22,
+    "amount": 17.02
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:14:02",
+    "dropoff": "2018-11-01T00:22:17",
+    "passengers": 1,
+    "distance": 2,
+    "tip": 2.45,
+    "amount": 12.25
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:14:08",
+    "dropoff": "2018-11-01T00:26:56",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 2.58,
+    "amount": 12.88
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:14:11",
+    "dropoff": "2018-11-01T00:21:02",
+    "passengers": 1,
+    "distance": 1.1,
+    "tip": 0.78,
+    "amount": 8.58
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:14:18",
+    "dropoff": "2018-11-01T00:44:25",
+    "passengers": 1,
+    "distance": 2.9,
+    "tip": 0,
+    "amount": 20.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:14:21",
+    "dropoff": "2018-11-01T00:21:22",
+    "passengers": 3,
+    "distance": 0.7,
+    "tip": 1.45,
+    "amount": 8.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:14:23",
+    "dropoff": "2018-11-01T00:26:42",
+    "passengers": 1,
+    "distance": 3.12,
+    "tip": 2,
+    "amount": 15.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:14:25",
+    "dropoff": "2018-11-01T00:22:39",
+    "passengers": 5,
+    "distance": 1.7,
+    "tip": 1.5,
+    "amount": 10.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:14:26",
+    "dropoff": "2018-11-01T00:24:17",
+    "passengers": 1,
+    "distance": 2.7,
+    "tip": 2.35,
+    "amount": 14.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:14:29",
+    "dropoff": "2018-11-01T00:23:45",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 1.75,
+    "amount": 10.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:14:30",
+    "dropoff": "2018-11-01T00:21:24",
+    "passengers": 1,
+    "distance": 2.1,
+    "tip": 2.3,
+    "amount": 11.6
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:14:31",
+    "dropoff": "2018-11-01T00:26:36",
+    "passengers": 2,
+    "distance": 3.54,
+    "tip": 0,
+    "amount": 13.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:14:32",
+    "dropoff": "2018-11-01T00:26:09",
+    "passengers": 1,
+    "distance": 2.74,
+    "tip": 1,
+    "amount": 13.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:14:35",
+    "dropoff": "2018-11-01T00:23:07",
+    "passengers": 1,
+    "distance": 0.85,
+    "tip": 1.7,
+    "amount": 10
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:14:38",
+    "dropoff": "2018-11-01T00:43:59",
+    "passengers": 1,
+    "distance": 5.46,
+    "tip": 0,
+    "amount": 23.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:14:44",
+    "dropoff": "2018-11-01T00:19:30",
+    "passengers": 1,
+    "distance": 0.98,
+    "tip": 1.36,
+    "amount": 8.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:14:44",
+    "dropoff": "2018-11-01T00:24:32",
+    "passengers": 1,
+    "distance": 1.02,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:14:46",
+    "dropoff": "2018-11-01T00:20:53",
+    "passengers": 1,
+    "distance": 2.02,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:14:53",
+    "dropoff": "2018-11-01T00:42:52",
+    "passengers": 1,
+    "distance": 6.48,
+    "tip": 3.63,
+    "amount": 28.93
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:14:55",
+    "dropoff": "2018-11-01T00:21:24",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 1,
+    "amount": 8.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:15:04",
+    "dropoff": "2018-11-01T00:22:28",
+    "passengers": 1,
+    "distance": 0.07,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:15:06",
+    "dropoff": "2018-11-01T00:26:44",
+    "passengers": 1,
+    "distance": 1.53,
+    "tip": 0,
+    "amount": 10.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:15:07",
+    "dropoff": "2018-11-01T00:18:31",
+    "passengers": 5,
+    "distance": 0.75,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:15:11",
+    "dropoff": "2018-11-01T00:22:08",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 1,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:15:12",
+    "dropoff": "2018-11-01T00:45:40",
+    "passengers": 5,
+    "distance": 7.59,
+    "tip": 7.08,
+    "amount": 35.38
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:15:17",
+    "dropoff": "2018-11-01T00:27:30",
+    "passengers": 1,
+    "distance": 1.9,
+    "tip": 0,
+    "amount": 10.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:15:18",
+    "dropoff": "2018-11-01T01:00:51",
+    "passengers": 2,
+    "distance": 9.76,
+    "tip": 0,
+    "amount": 39.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:15:19",
+    "dropoff": "2018-11-01T00:38:45",
+    "passengers": 2,
+    "distance": 6.7,
+    "tip": 4.75,
+    "amount": 28.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:15:20",
+    "dropoff": "2018-11-01T00:27:14",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 0,
+    "amount": 10.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:15:27",
+    "dropoff": "2018-11-01T00:17:19",
+    "passengers": 1,
+    "distance": 0.2,
+    "tip": 0,
+    "amount": 4.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:15:30",
+    "dropoff": "2018-11-01T00:39:05",
+    "passengers": 1,
+    "distance": 3.1,
+    "tip": 0,
+    "amount": 17.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:15:31",
+    "dropoff": "2018-11-01T00:39:51",
+    "passengers": 1,
+    "distance": 3.57,
+    "tip": 0,
+    "amount": 18.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:15:31",
+    "dropoff": "2018-11-01T00:23:10",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 1,
+    "amount": 9.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:15:41",
+    "dropoff": "2018-11-01T00:38:28",
+    "passengers": 1,
+    "distance": 11.3,
+    "tip": 0,
+    "amount": 34.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:15:45",
+    "dropoff": "2018-11-01T00:23:36",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 1.75,
+    "amount": 10.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:15:50",
+    "dropoff": "2018-11-01T00:41:15",
+    "passengers": 2,
+    "distance": 2.54,
+    "tip": 4.45,
+    "amount": 22.25
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:15:50",
+    "dropoff": "2018-11-01T00:27:16",
+    "passengers": 5,
+    "distance": 2.32,
+    "tip": 2.26,
+    "amount": 13.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:15:51",
+    "dropoff": "2018-11-01T00:23:18",
+    "passengers": 1,
+    "distance": 2,
+    "tip": 1.85,
+    "amount": 11.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:15:55",
+    "dropoff": "2018-11-01T00:53:48",
+    "passengers": 1,
+    "distance": 13.1,
+    "tip": 0,
+    "amount": 41.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:16:06",
+    "dropoff": "2018-11-01T00:29:40",
+    "passengers": 2,
+    "distance": 1.05,
+    "tip": 1.08,
+    "amount": 11.88
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:16:10",
+    "dropoff": "2018-11-01T00:36:00",
+    "passengers": 5,
+    "distance": 2.76,
+    "tip": 3.06,
+    "amount": 18.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:16:24",
+    "dropoff": "2018-11-01T00:24:48",
+    "passengers": 2,
+    "distance": 1,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:16:26",
+    "dropoff": "2018-11-01T00:27:33",
+    "passengers": 1,
+    "distance": 2.1,
+    "tip": 2.15,
+    "amount": 12.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:16:27",
+    "dropoff": "2018-11-01T00:34:00",
+    "passengers": 1,
+    "distance": 2.24,
+    "tip": 2,
+    "amount": 15.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:16:30",
+    "dropoff": "2018-11-01T00:25:28",
+    "passengers": 1,
+    "distance": 1.6,
+    "tip": 1.85,
+    "amount": 11.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:16:31",
+    "dropoff": "2018-11-01T00:26:25",
+    "passengers": 1,
+    "distance": 2.01,
+    "tip": 0.2,
+    "amount": 11
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:16:38",
+    "dropoff": "2018-11-01T00:30:55",
+    "passengers": 1,
+    "distance": 3.21,
+    "tip": 2.96,
+    "amount": 17.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:16:39",
+    "dropoff": "2018-11-01T00:18:59",
+    "passengers": 6,
+    "distance": 0.32,
+    "tip": 4,
+    "amount": 8.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:16:47",
+    "dropoff": "2018-11-01T00:25:36",
+    "passengers": 3,
+    "distance": 1.1,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:16:49",
+    "dropoff": "2018-11-01T00:50:42",
+    "passengers": 5,
+    "distance": 3.67,
+    "tip": 4.66,
+    "amount": 27.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:16:53",
+    "dropoff": "2018-11-01T00:25:50",
+    "passengers": 1,
+    "distance": 1.07,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:16:56",
+    "dropoff": "2018-11-01T00:27:59",
+    "passengers": 1,
+    "distance": 3.1,
+    "tip": 0,
+    "amount": 12.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:17:00",
+    "dropoff": "2018-11-01T00:20:28",
+    "passengers": 1,
+    "distance": 0.71,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:17:04",
+    "dropoff": "2018-11-01T00:30:38",
+    "passengers": 1,
+    "distance": 2.55,
+    "tip": 1.92,
+    "amount": 14.72
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:17:05",
+    "dropoff": "2018-11-01T00:30:27",
+    "passengers": 1,
+    "distance": 2.82,
+    "tip": 0,
+    "amount": 13.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:17:05",
+    "dropoff": "2018-11-01T00:33:18",
+    "passengers": 5,
+    "distance": 1.95,
+    "tip": 2.56,
+    "amount": 15.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:17:15",
+    "dropoff": "2018-11-01T00:23:45",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 2,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:17:35",
+    "dropoff": "2018-11-01T00:34:27",
+    "passengers": 3,
+    "distance": 4.66,
+    "tip": 0,
+    "amount": 17.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:17:39",
+    "dropoff": "2018-11-01T00:51:15",
+    "passengers": 1,
+    "distance": 4.5,
+    "tip": 6.08,
+    "amount": 30.38
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:17:42",
+    "dropoff": "2018-11-01T00:31:07",
+    "passengers": 1,
+    "distance": 1.42,
+    "tip": 0,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:17:48",
+    "dropoff": "2018-11-01T00:48:14",
+    "passengers": 1,
+    "distance": 5.53,
+    "tip": 0,
+    "amount": 24.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:17:49",
+    "dropoff": "2018-11-01T00:33:40",
+    "passengers": 1,
+    "distance": 4.2,
+    "tip": 3.45,
+    "amount": 20.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:17:50",
+    "dropoff": "2018-11-01T00:44:56",
+    "passengers": 1,
+    "distance": 8.48,
+    "tip": 6.95,
+    "amount": 34.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:17:53",
+    "dropoff": "2018-11-01T00:31:21",
+    "passengers": 1,
+    "distance": 3.72,
+    "tip": 0,
+    "amount": 14.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:17:56",
+    "dropoff": "2018-11-01T00:38:21",
+    "passengers": 1,
+    "distance": 3.5,
+    "tip": 2,
+    "amount": 19.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:17:57",
+    "dropoff": "2018-11-01T00:29:45",
+    "passengers": 1,
+    "distance": 4.17,
+    "tip": 0,
+    "amount": 14.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:18:00",
+    "dropoff": "2018-11-01T00:39:09",
+    "passengers": 1,
+    "distance": 7.6,
+    "tip": 0,
+    "amount": 25.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:18:03",
+    "dropoff": "2018-11-01T00:34:43",
+    "passengers": 1,
+    "distance": 5.7,
+    "tip": 3.17,
+    "amount": 22.97
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:18:04",
+    "dropoff": "2018-11-01T00:20:03",
+    "passengers": 2,
+    "distance": 0.7,
+    "tip": 0,
+    "amount": 5.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:18:26",
+    "dropoff": "2018-11-01T00:19:49",
+    "passengers": 1,
+    "distance": 0.3,
+    "tip": 0.95,
+    "amount": 5.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:18:34",
+    "dropoff": "2018-11-01T00:43:47",
+    "passengers": 1,
+    "distance": 5.38,
+    "tip": 0,
+    "amount": 23.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:18:35",
+    "dropoff": "2018-11-01T00:39:26",
+    "passengers": 3,
+    "distance": 7.17,
+    "tip": 0,
+    "amount": 25.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:18:38",
+    "dropoff": "2018-11-01T00:26:09",
+    "passengers": 1,
+    "distance": 1.54,
+    "tip": 1.25,
+    "amount": 9.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:18:45",
+    "dropoff": "2018-11-01T00:40:56",
+    "passengers": 3,
+    "distance": 3.05,
+    "tip": 0,
+    "amount": 17.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:18:49",
+    "dropoff": "2018-11-01T00:23:08",
+    "passengers": 0,
+    "distance": 0.9,
+    "tip": 0,
+    "amount": 5.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:18:51",
+    "dropoff": "2018-11-01T00:32:22",
+    "passengers": 2,
+    "distance": 1.4,
+    "tip": 0,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:18:53",
+    "dropoff": "2018-11-01T00:24:45",
+    "passengers": 1,
+    "distance": 0.66,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:19:03",
+    "dropoff": "2018-11-01T00:42:06",
+    "passengers": 1,
+    "distance": 5.06,
+    "tip": 0,
+    "amount": 20.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:19:04",
+    "dropoff": "2018-11-01T00:26:45",
+    "passengers": 2,
+    "distance": 0.95,
+    "tip": 1.56,
+    "amount": 9.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:19:04",
+    "dropoff": "2018-11-01T00:54:00",
+    "passengers": 1,
+    "distance": 7.15,
+    "tip": 5.66,
+    "amount": 33.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:19:14",
+    "dropoff": "2018-11-01T00:35:14",
+    "passengers": 1,
+    "distance": 1.6,
+    "tip": 2.55,
+    "amount": 15.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:19:20",
+    "dropoff": "2018-11-01T00:21:18",
+    "passengers": 2,
+    "distance": 0.4,
+    "tip": 1.15,
+    "amount": 5.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:19:24",
+    "dropoff": "2018-11-01T00:36:48",
+    "passengers": 1,
+    "distance": 1.37,
+    "tip": 0,
+    "amount": 12.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:19:29",
+    "dropoff": "2018-11-01T00:35:41",
+    "passengers": 1,
+    "distance": 3.8,
+    "tip": 0,
+    "amount": 15.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:19:36",
+    "dropoff": "2018-11-01T00:36:00",
+    "passengers": 5,
+    "distance": 3.64,
+    "tip": 0,
+    "amount": 15.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:19:37",
+    "dropoff": "2018-11-01T00:21:06",
+    "passengers": 2,
+    "distance": 0.32,
+    "tip": 0,
+    "amount": 25.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:19:38",
+    "dropoff": "2018-11-01T00:38:21",
+    "passengers": 3,
+    "distance": 2.64,
+    "tip": 2.96,
+    "amount": 17.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:19:51",
+    "dropoff": "2018-11-01T00:50:05",
+    "passengers": 1,
+    "distance": 7.2,
+    "tip": 5.25,
+    "amount": 31.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:19:54",
+    "dropoff": "2018-11-01T00:23:35",
+    "passengers": 1,
+    "distance": 1.02,
+    "tip": 1.7,
+    "amount": 8.5
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:19:55",
+    "dropoff": "2018-11-01T00:26:47",
+    "passengers": 1,
+    "distance": 2,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:19:58",
+    "dropoff": "2018-11-01T01:15:28",
+    "passengers": 2,
+    "distance": 19.6,
+    "tip": 0,
+    "amount": 100.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:19:59",
+    "dropoff": "2018-11-01T00:26:14",
+    "passengers": 5,
+    "distance": 1.88,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:19:59",
+    "dropoff": "2018-11-01T00:23:48",
+    "passengers": 1,
+    "distance": 0.66,
+    "tip": 1.74,
+    "amount": 7.54
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:04",
+    "dropoff": "2018-11-01T00:39:12",
+    "passengers": 1,
+    "distance": 3.9,
+    "tip": 3.45,
+    "amount": 20.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:20:05",
+    "dropoff": "2018-11-01T00:28:54",
+    "passengers": 1,
+    "distance": 2.33,
+    "tip": 2.06,
+    "amount": 12.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:20:12",
+    "dropoff": "2018-11-01T00:30:35",
+    "passengers": 1,
+    "distance": 1.91,
+    "tip": 3.09,
+    "amount": 13.39
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:20:13",
+    "dropoff": "2018-11-01T00:35:34",
+    "passengers": 5,
+    "distance": 4.59,
+    "tip": 3.46,
+    "amount": 20.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:13",
+    "dropoff": "2018-11-01T00:24:33",
+    "passengers": 1,
+    "distance": 0.5,
+    "tip": 1.2,
+    "amount": 7
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:20:19",
+    "dropoff": "2018-11-01T00:43:22",
+    "passengers": 6,
+    "distance": 8.62,
+    "tip": 5.66,
+    "amount": 33.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:21",
+    "dropoff": "2018-11-01T00:43:44",
+    "passengers": 1,
+    "distance": 5.3,
+    "tip": 3,
+    "amount": 24.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:24",
+    "dropoff": "2018-11-01T00:31:11",
+    "passengers": 2,
+    "distance": 1.2,
+    "tip": 1.47,
+    "amount": 11.27
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:20:25",
+    "dropoff": "2018-11-01T00:42:55",
+    "passengers": 1,
+    "distance": 4,
+    "tip": 3.86,
+    "amount": 23.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:29",
+    "dropoff": "2018-11-01T00:24:01",
+    "passengers": 1,
+    "distance": 0.4,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:20:30",
+    "dropoff": "2018-11-01T00:31:14",
+    "passengers": 4,
+    "distance": 2.25,
+    "tip": 1,
+    "amount": 12.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:33",
+    "dropoff": "2018-11-01T00:26:39",
+    "passengers": 2,
+    "distance": 0.5,
+    "tip": 1.7,
+    "amount": 8.5
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:20:33",
+    "dropoff": "2018-11-01T00:22:41",
+    "passengers": 1,
+    "distance": 0.54,
+    "tip": 1,
+    "amount": 6.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:39",
+    "dropoff": "2018-11-01T00:29:09",
+    "passengers": 1,
+    "distance": 1.6,
+    "tip": 1.5,
+    "amount": 10.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:46",
+    "dropoff": "2018-11-01T00:28:00",
+    "passengers": 2,
+    "distance": 2.1,
+    "tip": 1.95,
+    "amount": 11.75
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:52",
+    "dropoff": "2018-11-01T00:30:32",
+    "passengers": 2,
+    "distance": 2.2,
+    "tip": 2.15,
+    "amount": 12.95
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:56",
+    "dropoff": "2018-11-01T00:31:24",
+    "passengers": 1,
+    "distance": 1.9,
+    "tip": 2.05,
+    "amount": 12.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:56",
+    "dropoff": "2018-11-01T00:26:55",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 1.45,
+    "amount": 8.75
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:20:59",
+    "dropoff": "2018-11-01T00:31:25",
+    "passengers": 1,
+    "distance": 2.7,
+    "tip": 2.35,
+    "amount": 14.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:21:01",
+    "dropoff": "2018-11-01T00:27:31",
+    "passengers": 1,
+    "distance": 2.16,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:21:12",
+    "dropoff": "2018-11-01T00:44:54",
+    "passengers": 1,
+    "distance": 5.7,
+    "tip": 2.7,
+    "amount": 25
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:21:13",
+    "dropoff": "2018-11-01T00:28:22",
+    "passengers": 1,
+    "distance": 1.05,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:21:16",
+    "dropoff": "2018-11-01T00:25:56",
+    "passengers": 1,
+    "distance": 0.75,
+    "tip": 1.7,
+    "amount": 8.5
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:21:23",
+    "dropoff": "2018-11-01T00:36:51",
+    "passengers": 1,
+    "distance": 2.08,
+    "tip": 2.56,
+    "amount": 15.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:21:32",
+    "dropoff": "2018-11-01T00:23:35",
+    "passengers": 2,
+    "distance": 0.3,
+    "tip": 0,
+    "amount": 4.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:21:34",
+    "dropoff": "2018-11-01T00:35:02",
+    "passengers": 4,
+    "distance": 3.83,
+    "tip": 3.7,
+    "amount": 18.5
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:21:38",
+    "dropoff": "2018-11-01T00:45:07",
+    "passengers": 4,
+    "distance": 5.19,
+    "tip": 3,
+    "amount": 24.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:21:40",
+    "dropoff": "2018-11-01T00:26:33",
+    "passengers": 1,
+    "distance": 1.51,
+    "tip": 1.56,
+    "amount": 9.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:21:41",
+    "dropoff": "2018-11-01T00:35:42",
+    "passengers": 1,
+    "distance": 4.52,
+    "tip": 3.26,
+    "amount": 19.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:21:43",
+    "dropoff": "2018-11-01T00:32:36",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 2.05,
+    "amount": 12.35
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:21:44",
+    "dropoff": "2018-11-01T00:30:45",
+    "passengers": 1,
+    "distance": 1.48,
+    "tip": 1.86,
+    "amount": 11.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:21:45",
+    "dropoff": "2018-11-01T00:32:50",
+    "passengers": 0,
+    "distance": 2.8,
+    "tip": 3,
+    "amount": 15.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:21:46",
+    "dropoff": "2018-11-01T00:26:17",
+    "passengers": 1,
+    "distance": 0.3,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:21:50",
+    "dropoff": "2018-11-01T00:37:00",
+    "passengers": 3,
+    "distance": 3.28,
+    "tip": 0,
+    "amount": 14.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:21:50",
+    "dropoff": "2018-11-01T00:30:13",
+    "passengers": 1,
+    "distance": 1.2,
+    "tip": 1.75,
+    "amount": 10.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:21:51",
+    "dropoff": "2018-11-01T00:54:30",
+    "passengers": 1,
+    "distance": 3.5,
+    "tip": 0,
+    "amount": 22.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:21:51",
+    "dropoff": "2018-11-01T00:30:58",
+    "passengers": 3,
+    "distance": 1.3,
+    "tip": 2.64,
+    "amount": 11.44
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:22:00",
+    "dropoff": "2018-11-01T00:36:55",
+    "passengers": 4,
+    "distance": 1.75,
+    "tip": 0,
+    "amount": 11.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:22:03",
+    "dropoff": "2018-11-01T00:29:13",
+    "passengers": 1,
+    "distance": 1.08,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:22:05",
+    "dropoff": "2018-11-01T00:26:29",
+    "passengers": 3,
+    "distance": 0.71,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:22:09",
+    "dropoff": "2018-11-01T00:43:33",
+    "passengers": 3,
+    "distance": 5.2,
+    "tip": 2,
+    "amount": 21.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:22:10",
+    "dropoff": "2018-11-01T00:33:30",
+    "passengers": 4,
+    "distance": 1.25,
+    "tip": 2.06,
+    "amount": 12.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:22:13",
+    "dropoff": "2018-11-01T00:37:36",
+    "passengers": 1,
+    "distance": 3.8,
+    "tip": 3.8,
+    "amount": 19.1
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:22:21",
+    "dropoff": "2018-11-01T00:26:18",
+    "passengers": 1,
+    "distance": 0.7,
+    "tip": 1.25,
+    "amount": 7.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:22:25",
+    "dropoff": "2018-11-01T01:02:37",
+    "passengers": 4,
+    "distance": 9.9,
+    "tip": 0,
+    "amount": 36.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:22:38",
+    "dropoff": "2018-11-01T00:55:54",
+    "passengers": 2,
+    "distance": 5.63,
+    "tip": 0,
+    "amount": 25.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:22:49",
+    "dropoff": "2018-11-01T00:43:30",
+    "passengers": 2,
+    "distance": 5.5,
+    "tip": 5.3,
+    "amount": 26.6
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:22:50",
+    "dropoff": "2018-11-01T00:30:32",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 0,
+    "amount": 8.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:22:53",
+    "dropoff": "2018-11-01T00:40:07",
+    "passengers": 1,
+    "distance": 4.08,
+    "tip": 3.46,
+    "amount": 20.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:22:55",
+    "dropoff": "2018-11-01T00:29:09",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 1.56,
+    "amount": 9.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:23:03",
+    "dropoff": "2018-11-01T00:39:40",
+    "passengers": 1,
+    "distance": 2.7,
+    "tip": 3.55,
+    "amount": 17.85
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:23:07",
+    "dropoff": "2018-11-01T00:56:09",
+    "passengers": 1,
+    "distance": 6.51,
+    "tip": 0,
+    "amount": 27.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:23:09",
+    "dropoff": "2018-11-01T00:31:08",
+    "passengers": 6,
+    "distance": 2.31,
+    "tip": 1.5,
+    "amount": 11.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:23:12",
+    "dropoff": "2018-11-01T00:27:02",
+    "passengers": 2,
+    "distance": 0.8,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:23:13",
+    "dropoff": "2018-11-01T00:26:53",
+    "passengers": 1,
+    "distance": 0.76,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:23:14",
+    "dropoff": "2018-11-01T00:43:09",
+    "passengers": 1,
+    "distance": 5.7,
+    "tip": 4.05,
+    "amount": 24.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:23:16",
+    "dropoff": "2018-11-01T00:28:33",
+    "passengers": 1,
+    "distance": 0.3,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:23:20",
+    "dropoff": "2018-11-01T00:26:49",
+    "passengers": 1,
+    "distance": 0.77,
+    "tip": 1.16,
+    "amount": 6.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:23:21",
+    "dropoff": "2018-11-01T00:32:35",
+    "passengers": 1,
+    "distance": 1.6,
+    "tip": 1.47,
+    "amount": 11.27
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:23:40",
+    "dropoff": "2018-11-01T00:34:43",
+    "passengers": 1,
+    "distance": 2.5,
+    "tip": 2.35,
+    "amount": 14.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:23:50",
+    "dropoff": "2018-11-01T00:37:30",
+    "passengers": 1,
+    "distance": 2.7,
+    "tip": 0,
+    "amount": 13.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:23:51",
+    "dropoff": "2018-11-01T00:34:40",
+    "passengers": 2,
+    "distance": 1.8,
+    "tip": 1,
+    "amount": 11.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:23:52",
+    "dropoff": "2018-11-01T00:27:56",
+    "passengers": 1,
+    "distance": 1.4,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:23:57",
+    "dropoff": "2018-11-01T00:31:40",
+    "passengers": 1,
+    "distance": 2.6,
+    "tip": 2.05,
+    "amount": 12.35
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:23:58",
+    "dropoff": "2018-11-01T00:30:22",
+    "passengers": 1,
+    "distance": 1.32,
+    "tip": 1.2,
+    "amount": 9
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:23:58",
+    "dropoff": "2018-11-01T00:29:18",
+    "passengers": 2,
+    "distance": 1.17,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:24:04",
+    "dropoff": "2018-11-01T00:35:54",
+    "passengers": 1,
+    "distance": 1.6,
+    "tip": 1,
+    "amount": 11.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:24:10",
+    "dropoff": "2018-11-01T00:28:12",
+    "passengers": 1,
+    "distance": 0.4,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:24:13",
+    "dropoff": "2018-11-01T00:43:49",
+    "passengers": 2,
+    "distance": 2.9,
+    "tip": 0,
+    "amount": 15.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:24:13",
+    "dropoff": "2018-11-01T00:44:45",
+    "passengers": 1,
+    "distance": 5.09,
+    "tip": 4.06,
+    "amount": 24.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:24:21",
+    "dropoff": "2018-11-01T00:48:58",
+    "passengers": 1,
+    "distance": 5.4,
+    "tip": 2,
+    "amount": 23.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:24:34",
+    "dropoff": "2018-11-01T00:45:49",
+    "passengers": 2,
+    "distance": 3.57,
+    "tip": 3.36,
+    "amount": 20.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:24:34",
+    "dropoff": "2018-11-01T00:36:55",
+    "passengers": 1,
+    "distance": 1.98,
+    "tip": 2.26,
+    "amount": 13.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:24:43",
+    "dropoff": "2018-11-01T00:24:43",
+    "passengers": 1,
+    "distance": 0,
+    "tip": 0,
+    "amount": 0
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:24:43",
+    "dropoff": "2018-11-01T00:41:17",
+    "passengers": 2,
+    "distance": 10,
+    "tip": 4.47,
+    "amount": 34.27
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:24:47",
+    "dropoff": "2018-11-01T00:34:50",
+    "passengers": 1,
+    "distance": 2.38,
+    "tip": 2.26,
+    "amount": 13.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:24:50",
+    "dropoff": "2018-11-01T00:30:53",
+    "passengers": 1,
+    "distance": 0.83,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:24:52",
+    "dropoff": "2018-11-01T00:29:32",
+    "passengers": 1,
+    "distance": 1.83,
+    "tip": 1.58,
+    "amount": 9.88
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:24:54",
+    "dropoff": "2018-11-01T00:52:36",
+    "passengers": 2,
+    "distance": 4.6,
+    "tip": 0,
+    "amount": 22.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:24:56",
+    "dropoff": "2018-11-01T00:34:07",
+    "passengers": 1,
+    "distance": 1.8,
+    "tip": 2.05,
+    "amount": 12.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:25:02",
+    "dropoff": "2018-11-01T00:34:13",
+    "passengers": 1,
+    "distance": 1.4,
+    "tip": 1.85,
+    "amount": 11.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:25:15",
+    "dropoff": "2018-11-01T00:51:53",
+    "passengers": 1,
+    "distance": 6.45,
+    "tip": 3.7,
+    "amount": 28
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:25:25",
+    "dropoff": "2018-11-01T00:49:24",
+    "passengers": 1,
+    "distance": 2.78,
+    "tip": 0,
+    "amount": 17.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:25:26",
+    "dropoff": "2018-11-01T00:33:16",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 0.1,
+    "amount": 7.9
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:25:40",
+    "dropoff": "2018-11-01T00:30:08",
+    "passengers": 1,
+    "distance": 0.67,
+    "tip": 1.58,
+    "amount": 7.88
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:25:41",
+    "dropoff": "2018-11-01T00:37:25",
+    "passengers": 2,
+    "distance": 1.52,
+    "tip": 2.16,
+    "amount": 12.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:25:45",
+    "dropoff": "2018-11-01T00:34:37",
+    "passengers": 1,
+    "distance": 2.18,
+    "tip": 1.7,
+    "amount": 12
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:25:47",
+    "dropoff": "2018-11-01T00:30:41",
+    "passengers": 6,
+    "distance": 0.82,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:25:54",
+    "dropoff": "2018-11-01T00:42:19",
+    "passengers": 5,
+    "distance": 2.69,
+    "tip": 4.14,
+    "amount": 17.94
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:26:00",
+    "dropoff": "2018-11-01T00:40:43",
+    "passengers": 1,
+    "distance": 2.7,
+    "tip": 1.5,
+    "amount": 14.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:26:08",
+    "dropoff": "2018-11-01T00:35:46",
+    "passengers": 1,
+    "distance": 1.4,
+    "tip": 1.85,
+    "amount": 11.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:26:12",
+    "dropoff": "2018-11-01T01:12:14",
+    "passengers": 1,
+    "distance": 5.1,
+    "tip": 3,
+    "amount": 33.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:26:12",
+    "dropoff": "2018-11-01T00:30:31",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:26:13",
+    "dropoff": "2018-11-01T00:32:11",
+    "passengers": 1,
+    "distance": 1.33,
+    "tip": 1.56,
+    "amount": 9.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:26:15",
+    "dropoff": "2018-11-01T00:47:08",
+    "passengers": 1,
+    "distance": 8.77,
+    "tip": 6.71,
+    "amount": 40.27
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:26:21",
+    "dropoff": "2018-11-01T00:35:47",
+    "passengers": 1,
+    "distance": 2.2,
+    "tip": 2.15,
+    "amount": 12.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:26:25",
+    "dropoff": "2018-11-01T01:12:28",
+    "passengers": 5,
+    "distance": 8.08,
+    "tip": 3,
+    "amount": 37.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:26:27",
+    "dropoff": "2018-11-01T00:36:20",
+    "passengers": 4,
+    "distance": 2.4,
+    "tip": 2.16,
+    "amount": 12.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:26:32",
+    "dropoff": "2018-11-01T00:32:24",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 1.45,
+    "amount": 8.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:26:37",
+    "dropoff": "2018-11-01T00:34:51",
+    "passengers": 5,
+    "distance": 1.31,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:26:39",
+    "dropoff": "2018-11-01T00:30:47",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 1.25,
+    "amount": 7.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:26:48",
+    "dropoff": "2018-11-01T00:51:06",
+    "passengers": 1,
+    "distance": 5.2,
+    "tip": 4,
+    "amount": 26.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:26:53",
+    "dropoff": "2018-11-01T00:47:54",
+    "passengers": 3,
+    "distance": 2.48,
+    "tip": 3.16,
+    "amount": 18.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:26:54",
+    "dropoff": "2018-11-01T00:40:20",
+    "passengers": 1,
+    "distance": 2.3,
+    "tip": 2.45,
+    "amount": 14.75
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:26:55",
+    "dropoff": "2018-11-01T00:35:40",
+    "passengers": 1,
+    "distance": 1.4,
+    "tip": 1.85,
+    "amount": 11.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:26:59",
+    "dropoff": "2018-11-01T00:46:16",
+    "passengers": 1,
+    "distance": 4.9,
+    "tip": 3.95,
+    "amount": 23.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:27:01",
+    "dropoff": "2018-11-01T00:49:47",
+    "passengers": 1,
+    "distance": 4.78,
+    "tip": 3.96,
+    "amount": 23.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:27:02",
+    "dropoff": "2018-11-01T00:32:41",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 1,
+    "amount": 8.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:27:05",
+    "dropoff": "2018-11-01T00:39:29",
+    "passengers": 1,
+    "distance": 3.5,
+    "tip": 1,
+    "amount": 14.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:27:10",
+    "dropoff": "2018-11-01T00:39:31",
+    "passengers": 1,
+    "distance": 1.13,
+    "tip": 3.09,
+    "amount": 13.39
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:27:16",
+    "dropoff": "2018-11-01T00:30:54",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 1.25,
+    "amount": 7.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:27:23",
+    "dropoff": "2018-11-01T00:37:50",
+    "passengers": 1,
+    "distance": 1.6,
+    "tip": 1,
+    "amount": 11.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:27:28",
+    "dropoff": "2018-11-01T00:31:38",
+    "passengers": 1,
+    "distance": 1.2,
+    "tip": 2,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:27:32",
+    "dropoff": "2018-11-01T00:36:27",
+    "passengers": 1,
+    "distance": 1.34,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:27:32",
+    "dropoff": "2018-11-01T00:35:12",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 1.65,
+    "amount": 9.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:27:42",
+    "dropoff": "2018-11-01T00:49:43",
+    "passengers": 1,
+    "distance": 8.14,
+    "tip": 5.66,
+    "amount": 33.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:27:43",
+    "dropoff": "2018-11-01T00:54:45",
+    "passengers": 1,
+    "distance": 5.56,
+    "tip": 0,
+    "amount": 24.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:27:44",
+    "dropoff": "2018-11-01T00:43:22",
+    "passengers": 1,
+    "distance": 2.91,
+    "tip": 2.07,
+    "amount": 15.87
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:27:46",
+    "dropoff": "2018-11-01T00:34:55",
+    "passengers": 1,
+    "distance": 1.1,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:27:47",
+    "dropoff": "2018-11-01T00:46:15",
+    "passengers": 1,
+    "distance": 5.74,
+    "tip": 4.16,
+    "amount": 24.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:27:50",
+    "dropoff": "2018-11-01T00:55:18",
+    "passengers": 1,
+    "distance": 7.66,
+    "tip": 0,
+    "amount": 33.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:27:58",
+    "dropoff": "2018-11-01T00:58:34",
+    "passengers": 3,
+    "distance": 3.57,
+    "tip": 3.86,
+    "amount": 23.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:28:02",
+    "dropoff": "2018-11-01T00:39:59",
+    "passengers": 1,
+    "distance": 2.8,
+    "tip": 0,
+    "amount": 12.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:28:06",
+    "dropoff": "2018-11-01T00:35:20",
+    "passengers": 4,
+    "distance": 2.5,
+    "tip": 2.05,
+    "amount": 12.35
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:28:11",
+    "dropoff": "2018-11-01T00:37:22",
+    "passengers": 1,
+    "distance": 2.02,
+    "tip": 2.06,
+    "amount": 12.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:28:12",
+    "dropoff": "2018-11-01T00:35:57",
+    "passengers": 5,
+    "distance": 1.19,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:28:30",
+    "dropoff": "2018-11-01T00:33:25",
+    "passengers": 1,
+    "distance": 0.62,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:28:32",
+    "dropoff": "2018-11-01T00:46:04",
+    "passengers": 1,
+    "distance": 4.7,
+    "tip": 4,
+    "amount": 22.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:28:47",
+    "dropoff": "2018-11-01T00:52:09",
+    "passengers": 1,
+    "distance": 4.9,
+    "tip": 5.2,
+    "amount": 26
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:28:49",
+    "dropoff": "2018-11-01T00:41:22",
+    "passengers": 2,
+    "distance": 1.6,
+    "tip": 0,
+    "amount": 10.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:28:50",
+    "dropoff": "2018-11-01T00:39:38",
+    "passengers": 2,
+    "distance": 1.36,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:28:50",
+    "dropoff": "2018-11-01T00:57:53",
+    "passengers": 1,
+    "distance": 6,
+    "tip": 4,
+    "amount": 28.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:03",
+    "dropoff": "2018-11-01T00:39:55",
+    "passengers": 1,
+    "distance": 1.8,
+    "tip": 2.16,
+    "amount": 12.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:29:10",
+    "dropoff": "2018-11-01T00:46:21",
+    "passengers": 1,
+    "distance": 5.1,
+    "tip": 0,
+    "amount": 18.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:12",
+    "dropoff": "2018-11-01T00:33:46",
+    "passengers": 3,
+    "distance": 0.99,
+    "tip": 2,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:19",
+    "dropoff": "2018-11-01T00:38:06",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:21",
+    "dropoff": "2018-11-01T00:40:00",
+    "passengers": 2,
+    "distance": 1.56,
+    "tip": 0.98,
+    "amount": 10.78
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:23",
+    "dropoff": "2018-11-01T00:38:35",
+    "passengers": 1,
+    "distance": 1.26,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:27",
+    "dropoff": "2018-11-01T00:40:41",
+    "passengers": 6,
+    "distance": 1.48,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:27",
+    "dropoff": "2018-11-01T00:41:43",
+    "passengers": 4,
+    "distance": 1.7,
+    "tip": 2.16,
+    "amount": 12.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:32",
+    "dropoff": "2018-11-01T00:41:54",
+    "passengers": 1,
+    "distance": 2.39,
+    "tip": 2.46,
+    "amount": 14.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:33",
+    "dropoff": "2018-11-01T00:34:42",
+    "passengers": 1,
+    "distance": 1.02,
+    "tip": 1.36,
+    "amount": 8.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:29:37",
+    "dropoff": "2018-11-01T01:04:16",
+    "passengers": 1,
+    "distance": 6.3,
+    "tip": 6.7,
+    "amount": 33.5
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:37",
+    "dropoff": "2018-11-01T00:35:04",
+    "passengers": 1,
+    "distance": 2.3,
+    "tip": 1.86,
+    "amount": 11.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:42",
+    "dropoff": "2018-11-01T00:49:42",
+    "passengers": 1,
+    "distance": 3.3,
+    "tip": 3.26,
+    "amount": 19.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:46",
+    "dropoff": "2018-11-01T00:39:47",
+    "passengers": 1,
+    "distance": 1.31,
+    "tip": 1.86,
+    "amount": 11.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:47",
+    "dropoff": "2018-11-01T01:07:46",
+    "passengers": 1,
+    "distance": 6.19,
+    "tip": 0,
+    "amount": 28.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:29:56",
+    "dropoff": "2018-11-01T00:33:22",
+    "passengers": 1,
+    "distance": 1.1,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:29:57",
+    "dropoff": "2018-11-01T00:36:47",
+    "passengers": 3,
+    "distance": 1.31,
+    "tip": 0,
+    "amount": 8.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:29:57",
+    "dropoff": "2018-11-01T00:47:30",
+    "passengers": 1,
+    "distance": 4.3,
+    "tip": 3.36,
+    "amount": 20.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:29:58",
+    "dropoff": "2018-11-01T00:38:03",
+    "passengers": 1,
+    "distance": 2.7,
+    "tip": 2.25,
+    "amount": 13.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:00",
+    "dropoff": "2018-11-01T00:49:06",
+    "passengers": 1,
+    "distance": 3.1,
+    "tip": 3.15,
+    "amount": 18.95
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:10",
+    "dropoff": "2018-11-01T01:07:00",
+    "passengers": 1,
+    "distance": 6.2,
+    "tip": 5.55,
+    "amount": 33.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:10",
+    "dropoff": "2018-11-01T01:01:41",
+    "passengers": 1,
+    "distance": 5.7,
+    "tip": 2,
+    "amount": 26.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:13",
+    "dropoff": "2018-11-01T00:33:35",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:13",
+    "dropoff": "2018-11-01T00:45:55",
+    "passengers": 1,
+    "distance": 5.7,
+    "tip": 5.9,
+    "amount": 25.7
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:30:19",
+    "dropoff": "2018-11-01T01:03:46",
+    "passengers": 3,
+    "distance": 15.5,
+    "tip": 3,
+    "amount": 48.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:19",
+    "dropoff": "2018-11-01T00:55:50",
+    "passengers": 1,
+    "distance": 5.1,
+    "tip": 4.25,
+    "amount": 25.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:30:19",
+    "dropoff": "2018-11-01T00:55:38",
+    "passengers": 4,
+    "distance": 8.23,
+    "tip": 5.86,
+    "amount": 35.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:21",
+    "dropoff": "2018-11-01T00:50:40",
+    "passengers": 1,
+    "distance": 5.7,
+    "tip": 2,
+    "amount": 23.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:30",
+    "dropoff": "2018-11-01T00:33:33",
+    "passengers": 1,
+    "distance": 0.5,
+    "tip": 1.15,
+    "amount": 6.95
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:34",
+    "dropoff": "2018-11-01T00:34:33",
+    "passengers": 1,
+    "distance": 0.6,
+    "tip": 1.25,
+    "amount": 7.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:30:39",
+    "dropoff": "2018-11-01T00:54:12",
+    "passengers": 2,
+    "distance": 7.02,
+    "tip": 0,
+    "amount": 24.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:41",
+    "dropoff": "2018-11-01T00:52:54",
+    "passengers": 2,
+    "distance": 5.6,
+    "tip": 4.35,
+    "amount": 26.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:44",
+    "dropoff": "2018-11-01T00:35:46",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:45",
+    "dropoff": "2018-11-01T00:47:54",
+    "passengers": 1,
+    "distance": 5.2,
+    "tip": 4.55,
+    "amount": 22.85
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:30:50",
+    "dropoff": "2018-11-01T00:58:58",
+    "passengers": 1,
+    "distance": 9.84,
+    "tip": 7.31,
+    "amount": 43.87
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:30:53",
+    "dropoff": "2018-11-01T00:34:15",
+    "passengers": 2,
+    "distance": 0.58,
+    "tip": 1.16,
+    "amount": 6.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:30:54",
+    "dropoff": "2018-11-01T00:39:44",
+    "passengers": 1,
+    "distance": 1.9,
+    "tip": 1.95,
+    "amount": 11.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:30:55",
+    "dropoff": "2018-11-01T00:43:16",
+    "passengers": 5,
+    "distance": 1.66,
+    "tip": 1.5,
+    "amount": 12.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:30:58",
+    "dropoff": "2018-11-01T00:51:44",
+    "passengers": 1,
+    "distance": 3.8,
+    "tip": 0,
+    "amount": 17.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:30:58",
+    "dropoff": "2018-11-01T00:42:05",
+    "passengers": 3,
+    "distance": 1.33,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:30:59",
+    "dropoff": "2018-11-01T00:56:48",
+    "passengers": 1,
+    "distance": 4.6,
+    "tip": 0,
+    "amount": 20.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:31:15",
+    "dropoff": "2018-11-01T01:09:52",
+    "passengers": 4,
+    "distance": 9.8,
+    "tip": 0,
+    "amount": 36.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:31:20",
+    "dropoff": "2018-11-01T00:37:47",
+    "passengers": 1,
+    "distance": 2.27,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:31:20",
+    "dropoff": "2018-11-01T00:33:56",
+    "passengers": 1,
+    "distance": 0.67,
+    "tip": 1.06,
+    "amount": 6.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:31:32",
+    "dropoff": "2018-11-01T00:34:04",
+    "passengers": 2,
+    "distance": 0.35,
+    "tip": 0,
+    "amount": 5.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:31:35",
+    "dropoff": "2018-11-01T00:46:48",
+    "passengers": 3,
+    "distance": 2.3,
+    "tip": 3.2,
+    "amount": 16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:31:37",
+    "dropoff": "2018-11-01T00:40:54",
+    "passengers": 1,
+    "distance": 1.55,
+    "tip": 1.86,
+    "amount": 11.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:31:38",
+    "dropoff": "2018-11-01T00:43:28",
+    "passengers": 3,
+    "distance": 2.86,
+    "tip": 0.5,
+    "amount": 13.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:31:40",
+    "dropoff": "2018-11-01T00:42:59",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 1.5,
+    "amount": 11.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:31:42",
+    "dropoff": "2018-11-01T00:36:07",
+    "passengers": 1,
+    "distance": 0.7,
+    "tip": 1,
+    "amount": 7.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:31:52",
+    "dropoff": "2018-11-01T00:45:44",
+    "passengers": 2,
+    "distance": 2.7,
+    "tip": 3.2,
+    "amount": 16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:31:53",
+    "dropoff": "2018-11-01T00:38:43",
+    "passengers": 1,
+    "distance": 1.15,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:31:53",
+    "dropoff": "2018-11-01T00:39:46",
+    "passengers": 5,
+    "distance": 1.4,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:31:57",
+    "dropoff": "2018-11-01T00:38:02",
+    "passengers": 1,
+    "distance": 1.45,
+    "tip": 1.5,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:32:00",
+    "dropoff": "2018-11-01T00:39:46",
+    "passengers": 1,
+    "distance": 2.38,
+    "tip": 2.06,
+    "amount": 12.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:32:04",
+    "dropoff": "2018-11-01T00:43:07",
+    "passengers": 3,
+    "distance": 1.9,
+    "tip": 2.15,
+    "amount": 12.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:32:15",
+    "dropoff": "2018-11-01T01:00:13",
+    "passengers": 1,
+    "distance": 4.55,
+    "tip": 4.56,
+    "amount": 27.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:32:17",
+    "dropoff": "2018-11-01T00:49:37",
+    "passengers": 2,
+    "distance": 3.2,
+    "tip": 1,
+    "amount": 16.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:32:18",
+    "dropoff": "2018-11-01T00:37:34",
+    "passengers": 2,
+    "distance": 0.6,
+    "tip": 1.25,
+    "amount": 7.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:32:19",
+    "dropoff": "2018-11-01T00:40:26",
+    "passengers": 1,
+    "distance": 1.4,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:32:24",
+    "dropoff": "2018-11-01T01:11:08",
+    "passengers": 1,
+    "distance": 7.91,
+    "tip": 0,
+    "amount": 31.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:32:24",
+    "dropoff": "2018-11-01T00:36:17",
+    "passengers": 2,
+    "distance": 0.8,
+    "tip": 1.36,
+    "amount": 8.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:32:30",
+    "dropoff": "2018-11-01T01:02:28",
+    "passengers": 1,
+    "distance": 4,
+    "tip": 1.5,
+    "amount": 22.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:32:30",
+    "dropoff": "2018-11-01T00:52:14",
+    "passengers": 2,
+    "distance": 3.54,
+    "tip": 3.46,
+    "amount": 20.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:32:30",
+    "dropoff": "2018-11-01T00:40:53",
+    "passengers": 2,
+    "distance": 1.2,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:32:43",
+    "dropoff": "2018-11-01T00:52:00",
+    "passengers": 1,
+    "distance": 1.67,
+    "tip": 1,
+    "amount": 15.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:32:50",
+    "dropoff": "2018-11-01T00:36:27",
+    "passengers": 2,
+    "distance": 1.09,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:33:04",
+    "dropoff": "2018-11-01T00:50:51",
+    "passengers": 1,
+    "distance": 1.46,
+    "tip": 0,
+    "amount": 13.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:33:08",
+    "dropoff": "2018-11-01T00:50:27",
+    "passengers": 1,
+    "distance": 3.34,
+    "tip": 2.8,
+    "amount": 19.1
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:33:11",
+    "dropoff": "2018-11-01T00:42:56",
+    "passengers": 1,
+    "distance": 2.03,
+    "tip": 1.5,
+    "amount": 11.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:33:12",
+    "dropoff": "2018-11-01T00:46:04",
+    "passengers": 6,
+    "distance": 2.46,
+    "tip": 0,
+    "amount": 12.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:33:15",
+    "dropoff": "2018-11-01T00:37:12",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 0.63,
+    "amount": 6.93
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:33:16",
+    "dropoff": "2018-11-01T00:49:59",
+    "passengers": 1,
+    "distance": 3.42,
+    "tip": 1,
+    "amount": 16.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:33:17",
+    "dropoff": "2018-11-01T00:37:29",
+    "passengers": 2,
+    "distance": 1.06,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:33:19",
+    "dropoff": "2018-11-01T00:39:04",
+    "passengers": 1,
+    "distance": 1.34,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:33:30",
+    "dropoff": "2018-11-01T00:43:45",
+    "passengers": 1,
+    "distance": 2.4,
+    "tip": 2.25,
+    "amount": 13.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:33:32",
+    "dropoff": "2018-11-01T00:41:19",
+    "passengers": 2,
+    "distance": 1.5,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:33:33",
+    "dropoff": "2018-11-01T00:39:01",
+    "passengers": 1,
+    "distance": 0.4,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:33:35",
+    "dropoff": "2018-11-01T01:00:27",
+    "passengers": 1,
+    "distance": 6,
+    "tip": 4.65,
+    "amount": 27.95
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:33:36",
+    "dropoff": "2018-11-01T00:40:33",
+    "passengers": 2,
+    "distance": 0.8,
+    "tip": 1.95,
+    "amount": 9.75
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:33:47",
+    "dropoff": "2018-11-01T00:43:37",
+    "passengers": 1,
+    "distance": 2.7,
+    "tip": 0,
+    "amount": 11.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:33:48",
+    "dropoff": "2018-11-01T00:40:12",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 1.75,
+    "amount": 10.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:33:48",
+    "dropoff": "2018-11-01T00:35:20",
+    "passengers": 1,
+    "distance": 0.38,
+    "tip": 0,
+    "amount": 4.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:33:50",
+    "dropoff": "2018-11-01T00:43:07",
+    "passengers": 4,
+    "distance": 1.76,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:33:53",
+    "dropoff": "2018-11-01T00:39:51",
+    "passengers": 1,
+    "distance": 0.5,
+    "tip": 1.35,
+    "amount": 8.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:02",
+    "dropoff": "2018-11-01T00:38:29",
+    "passengers": 1,
+    "distance": 0.7,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:09",
+    "dropoff": "2018-11-01T00:38:09",
+    "passengers": 1,
+    "distance": 1.04,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:17",
+    "dropoff": "2018-11-01T00:44:21",
+    "passengers": 1,
+    "distance": 4.88,
+    "tip": 0,
+    "amount": 16.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:17",
+    "dropoff": "2018-11-01T00:52:16",
+    "passengers": 2,
+    "distance": 1.8,
+    "tip": 2.76,
+    "amount": 16.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:18",
+    "dropoff": "2018-11-01T00:46:54",
+    "passengers": 6,
+    "distance": 2.95,
+    "tip": 3.32,
+    "amount": 16.62
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:20",
+    "dropoff": "2018-11-01T01:07:27",
+    "passengers": 5,
+    "distance": 14.6,
+    "tip": 0,
+    "amount": 58.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:21",
+    "dropoff": "2018-11-01T00:59:42",
+    "passengers": 6,
+    "distance": 15.9,
+    "tip": 0,
+    "amount": 44.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:23",
+    "dropoff": "2018-11-01T00:39:20",
+    "passengers": 1,
+    "distance": 1.12,
+    "tip": 1.2,
+    "amount": 8.5
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:30",
+    "dropoff": "2018-11-01T00:41:38",
+    "passengers": 3,
+    "distance": 0.77,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:34:32",
+    "dropoff": "2018-11-01T00:50:23",
+    "passengers": 1,
+    "distance": 2.9,
+    "tip": 2,
+    "amount": 16.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:33",
+    "dropoff": "2018-11-01T00:56:31",
+    "passengers": 3,
+    "distance": 2.67,
+    "tip": 4.08,
+    "amount": 20.38
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:34:34",
+    "dropoff": "2018-11-01T00:36:28",
+    "passengers": 1,
+    "distance": 0.2,
+    "tip": 1,
+    "amount": 5.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:34:38",
+    "dropoff": "2018-11-01T00:40:09",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:39",
+    "dropoff": "2018-11-01T00:50:44",
+    "passengers": 1,
+    "distance": 5.83,
+    "tip": 4.06,
+    "amount": 24.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:43",
+    "dropoff": "2018-11-01T00:48:27",
+    "passengers": 1,
+    "distance": 2.15,
+    "tip": 2.46,
+    "amount": 14.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:43",
+    "dropoff": "2018-11-01T01:13:42",
+    "passengers": 1,
+    "distance": 8.46,
+    "tip": 0,
+    "amount": 33.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:47",
+    "dropoff": "2018-11-01T00:46:25",
+    "passengers": 1,
+    "distance": 2.7,
+    "tip": 2.95,
+    "amount": 14.75
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:34:48",
+    "dropoff": "2018-11-01T00:48:33",
+    "passengers": 1,
+    "distance": 1.2,
+    "tip": 2.15,
+    "amount": 12.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:49",
+    "dropoff": "2018-11-01T00:41:28",
+    "passengers": 6,
+    "distance": 1.15,
+    "tip": 1.56,
+    "amount": 9.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:53",
+    "dropoff": "2018-11-01T00:49:26",
+    "passengers": 3,
+    "distance": 4.23,
+    "tip": 3.16,
+    "amount": 18.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:34:54",
+    "dropoff": "2018-11-01T00:39:58",
+    "passengers": 1,
+    "distance": 0.55,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:34:59",
+    "dropoff": "2018-11-01T00:45:14",
+    "passengers": 2,
+    "distance": 5.4,
+    "tip": 0,
+    "amount": 17.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:35:03",
+    "dropoff": "2018-11-01T00:39:01",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:35:03",
+    "dropoff": "2018-11-01T00:38:54",
+    "passengers": 1,
+    "distance": 0.88,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:35:03",
+    "dropoff": "2018-11-01T01:11:38",
+    "passengers": 2,
+    "distance": 7.56,
+    "tip": 0,
+    "amount": 30.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:35:04",
+    "dropoff": "2018-11-01T00:43:58",
+    "passengers": 1,
+    "distance": 1.2,
+    "tip": 1.75,
+    "amount": 10.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:35:11",
+    "dropoff": "2018-11-01T00:39:27",
+    "passengers": 1,
+    "distance": 1.69,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:35:21",
+    "dropoff": "2018-11-01T00:42:54",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 1,
+    "amount": 8.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:35:21",
+    "dropoff": "2018-11-01T00:50:16",
+    "passengers": 1,
+    "distance": 6.1,
+    "tip": 0,
+    "amount": 19.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:35:32",
+    "dropoff": "2018-11-01T00:58:31",
+    "passengers": 1,
+    "distance": 3,
+    "tip": 3.55,
+    "amount": 21.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:35:35",
+    "dropoff": "2018-11-01T01:07:33",
+    "passengers": 1,
+    "distance": 4.6,
+    "tip": 4.75,
+    "amount": 28.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:35:36",
+    "dropoff": "2018-11-01T00:46:34",
+    "passengers": 5,
+    "distance": 2.5,
+    "tip": 2.26,
+    "amount": 13.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:35:49",
+    "dropoff": "2018-11-01T00:55:53",
+    "passengers": 5,
+    "distance": 3.34,
+    "tip": 1,
+    "amount": 17.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:35:55",
+    "dropoff": "2018-11-01T00:38:50",
+    "passengers": 2,
+    "distance": 0.5,
+    "tip": 0,
+    "amount": 5.3
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:35:59",
+    "dropoff": "2018-11-01T00:53:10",
+    "passengers": 1,
+    "distance": 5.09,
+    "tip": 3.86,
+    "amount": 23.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:36:01",
+    "dropoff": "2018-11-01T00:42:52",
+    "passengers": 1,
+    "distance": 1.4,
+    "tip": 1.65,
+    "amount": 9.95
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:36:01",
+    "dropoff": "2018-11-01T00:51:33",
+    "passengers": 2,
+    "distance": 2.1,
+    "tip": 0,
+    "amount": 12.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:06",
+    "dropoff": "2018-11-01T00:45:48",
+    "passengers": 2,
+    "distance": 1.07,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:07",
+    "dropoff": "2018-11-01T00:45:55",
+    "passengers": 5,
+    "distance": 1.68,
+    "tip": 1.86,
+    "amount": 11.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:36:07",
+    "dropoff": "2018-11-01T01:03:25",
+    "passengers": 1,
+    "distance": 7,
+    "tip": 6.7,
+    "amount": 33.5
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:13",
+    "dropoff": "2018-11-01T00:46:03",
+    "passengers": 2,
+    "distance": 1.43,
+    "tip": 1.86,
+    "amount": 11.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:36:13",
+    "dropoff": "2018-11-01T00:48:02",
+    "passengers": 1,
+    "distance": 2.9,
+    "tip": 0,
+    "amount": 12.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:17",
+    "dropoff": "2018-11-01T00:55:41",
+    "passengers": 1,
+    "distance": 4.62,
+    "tip": 3,
+    "amount": 21.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:36:27",
+    "dropoff": "2018-11-01T00:46:30",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 3,
+    "amount": 12.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:27",
+    "dropoff": "2018-11-01T01:06:53",
+    "passengers": 1,
+    "distance": 17.04,
+    "tip": 0,
+    "amount": 50.94
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:28",
+    "dropoff": "2018-11-01T00:50:54",
+    "passengers": 1,
+    "distance": 4.26,
+    "tip": 3.26,
+    "amount": 19.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:36:31",
+    "dropoff": "2018-11-01T01:00:11",
+    "passengers": 1,
+    "distance": 5.7,
+    "tip": 0,
+    "amount": 21.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:36:31",
+    "dropoff": "2018-11-01T00:58:10",
+    "passengers": 1,
+    "distance": 11,
+    "tip": 6.65,
+    "amount": 39.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:36",
+    "dropoff": "2018-11-01T00:55:23",
+    "passengers": 1,
+    "distance": 2.76,
+    "tip": 3.06,
+    "amount": 18.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:39",
+    "dropoff": "2018-11-01T00:41:03",
+    "passengers": 1,
+    "distance": 0.95,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:45",
+    "dropoff": "2018-11-01T00:47:08",
+    "passengers": 5,
+    "distance": 1.41,
+    "tip": 1,
+    "amount": 10.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:48",
+    "dropoff": "2018-11-01T01:08:05",
+    "passengers": 1,
+    "distance": 5.23,
+    "tip": 0,
+    "amount": 23.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:36:50",
+    "dropoff": "2018-11-01T00:53:52",
+    "passengers": 2,
+    "distance": 3,
+    "tip": 2.95,
+    "amount": 17.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:51",
+    "dropoff": "2018-11-01T00:37:21",
+    "passengers": 1,
+    "distance": 0,
+    "tip": 1,
+    "amount": 15.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:36:55",
+    "dropoff": "2018-11-01T00:40:26",
+    "passengers": 1,
+    "distance": 0.5,
+    "tip": 1.15,
+    "amount": 6.95
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:36:55",
+    "dropoff": "2018-11-01T00:39:38",
+    "passengers": 1,
+    "distance": 0.7,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:36:56",
+    "dropoff": "2018-11-01T00:41:25",
+    "passengers": 1,
+    "distance": 1.17,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:58",
+    "dropoff": "2018-11-01T00:56:35",
+    "passengers": 1,
+    "distance": 5.4,
+    "tip": 4.06,
+    "amount": 24.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:36:58",
+    "dropoff": "2018-11-01T00:56:02",
+    "passengers": 2,
+    "distance": 2.2,
+    "tip": 0,
+    "amount": 13.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:36:59",
+    "dropoff": "2018-11-01T00:44:29",
+    "passengers": 4,
+    "distance": 1.25,
+    "tip": 0,
+    "amount": 8.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:37:04",
+    "dropoff": "2018-11-01T00:47:49",
+    "passengers": 1,
+    "distance": 6.3,
+    "tip": 4.05,
+    "amount": 24.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:37:08",
+    "dropoff": "2018-11-01T00:43:48",
+    "passengers": 2,
+    "distance": 2,
+    "tip": 2,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:37:09",
+    "dropoff": "2018-11-01T00:53:55",
+    "passengers": 1,
+    "distance": 5.37,
+    "tip": 3.96,
+    "amount": 23.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:37:15",
+    "dropoff": "2018-11-01T00:42:40",
+    "passengers": 1,
+    "distance": 0.92,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:37:15",
+    "dropoff": "2018-11-01T00:40:46",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:37:19",
+    "dropoff": "2018-11-01T00:50:33",
+    "passengers": 1,
+    "distance": 1.8,
+    "tip": 0.57,
+    "amount": 11.87
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:37:28",
+    "dropoff": "2018-11-01T01:13:27",
+    "passengers": 5,
+    "distance": 17.2,
+    "tip": 0,
+    "amount": 51.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:37:29",
+    "dropoff": "2018-11-01T00:46:38",
+    "passengers": 1,
+    "distance": 1.7,
+    "tip": 1.96,
+    "amount": 11.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:37:30",
+    "dropoff": "2018-11-01T00:59:23",
+    "passengers": 1,
+    "distance": 6.6,
+    "tip": 4.85,
+    "amount": 29.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:37:33",
+    "dropoff": "2018-11-01T00:48:18",
+    "passengers": 1,
+    "distance": 3.05,
+    "tip": 2.46,
+    "amount": 14.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:37:45",
+    "dropoff": "2018-11-01T00:47:07",
+    "passengers": 1,
+    "distance": 1.96,
+    "tip": 0,
+    "amount": 10.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:37:45",
+    "dropoff": "2018-11-01T00:56:40",
+    "passengers": 1,
+    "distance": 6.24,
+    "tip": 4.36,
+    "amount": 26.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:37:58",
+    "dropoff": "2018-11-01T00:44:26",
+    "passengers": 1,
+    "distance": 1.1,
+    "tip": 1.55,
+    "amount": 9.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:37:59",
+    "dropoff": "2018-11-01T00:42:44",
+    "passengers": 1,
+    "distance": 0.6,
+    "tip": 1.25,
+    "amount": 7.55
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:38:00",
+    "dropoff": "2018-11-01T00:45:18",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 1.65,
+    "amount": 9.95
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:38:02",
+    "dropoff": "2018-11-01T00:57:05",
+    "passengers": 1,
+    "distance": 2.6,
+    "tip": 3.05,
+    "amount": 18.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:38:09",
+    "dropoff": "2018-11-01T01:03:10",
+    "passengers": 2,
+    "distance": 4.1,
+    "tip": 3.96,
+    "amount": 23.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:38:15",
+    "dropoff": "2018-11-01T00:50:40",
+    "passengers": 1,
+    "distance": 2.1,
+    "tip": 2.12,
+    "amount": 13.92
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:38:22",
+    "dropoff": "2018-11-01T00:44:04",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 1.55,
+    "amount": 9.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:38:26",
+    "dropoff": "2018-11-01T00:55:03",
+    "passengers": 1,
+    "distance": 3.9,
+    "tip": 0,
+    "amount": 16.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:38:34",
+    "dropoff": "2018-11-01T00:40:45",
+    "passengers": 1,
+    "distance": 0.02,
+    "tip": 0,
+    "amount": -4.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:38:36",
+    "dropoff": "2018-11-01T00:43:37",
+    "passengers": 1,
+    "distance": 1.4,
+    "tip": 1.55,
+    "amount": 9.35
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:38:48",
+    "dropoff": "2018-11-01T00:45:21",
+    "passengers": 1,
+    "distance": 0.5,
+    "tip": 1.45,
+    "amount": 8.75
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:38:52",
+    "dropoff": "2018-11-01T00:57:35",
+    "passengers": 0,
+    "distance": 2.6,
+    "tip": 0,
+    "amount": 14.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:04",
+    "dropoff": "2018-11-01T00:44:12",
+    "passengers": 1,
+    "distance": 0.91,
+    "tip": 1,
+    "amount": 7.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:05",
+    "dropoff": "2018-11-01T00:54:00",
+    "passengers": 5,
+    "distance": 3.88,
+    "tip": 0,
+    "amount": 14.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:08",
+    "dropoff": "2018-11-01T00:50:00",
+    "passengers": 1,
+    "distance": 4.83,
+    "tip": 0,
+    "amount": 16.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:39:09",
+    "dropoff": "2018-11-01T00:53:57",
+    "passengers": 3,
+    "distance": 2.5,
+    "tip": 0,
+    "amount": 12.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:15",
+    "dropoff": "2018-11-01T00:51:28",
+    "passengers": 1,
+    "distance": 3.06,
+    "tip": 0,
+    "amount": 13.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:39:15",
+    "dropoff": "2018-11-01T01:03:11",
+    "passengers": 1,
+    "distance": 4.9,
+    "tip": 5.2,
+    "amount": 26
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:39:22",
+    "dropoff": "2018-11-01T00:49:24",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 2.2,
+    "amount": 11
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:25",
+    "dropoff": "2018-11-01T00:46:00",
+    "passengers": 2,
+    "distance": 3.07,
+    "tip": 0,
+    "amount": 11.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:39:28",
+    "dropoff": "2018-11-01T01:01:32",
+    "passengers": 2,
+    "distance": 3.4,
+    "tip": 4.3,
+    "amount": 21.6
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:39:30",
+    "dropoff": "2018-11-01T00:53:51",
+    "passengers": 2,
+    "distance": 1.9,
+    "tip": 2.35,
+    "amount": 14.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:32",
+    "dropoff": "2018-11-01T00:54:54",
+    "passengers": 2,
+    "distance": 1.58,
+    "tip": 2.56,
+    "amount": 15.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:35",
+    "dropoff": "2018-11-01T00:53:13",
+    "passengers": 3,
+    "distance": 2.39,
+    "tip": 2,
+    "amount": 14.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:35",
+    "dropoff": "2018-11-01T01:22:16",
+    "passengers": 1,
+    "distance": 8.38,
+    "tip": 6.76,
+    "amount": 40.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:39:38",
+    "dropoff": "2018-11-01T00:58:57",
+    "passengers": 2,
+    "distance": 4.2,
+    "tip": 3,
+    "amount": 20.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:40",
+    "dropoff": "2018-11-01T00:42:26",
+    "passengers": 5,
+    "distance": 0.45,
+    "tip": 1.06,
+    "amount": 6.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:39:42",
+    "dropoff": "2018-11-01T00:50:55",
+    "passengers": 1,
+    "distance": 3.4,
+    "tip": 2.65,
+    "amount": 15.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:46",
+    "dropoff": "2018-11-01T01:01:31",
+    "passengers": 1,
+    "distance": 5.14,
+    "tip": 3.2,
+    "amount": 23.5
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:47",
+    "dropoff": "2018-11-01T00:50:00",
+    "passengers": 1,
+    "distance": 2.02,
+    "tip": 0,
+    "amount": 10.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:39:49",
+    "dropoff": "2018-11-01T00:50:44",
+    "passengers": 2,
+    "distance": 2.1,
+    "tip": 2.15,
+    "amount": 12.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:50",
+    "dropoff": "2018-11-01T00:51:35",
+    "passengers": 1,
+    "distance": 3.51,
+    "tip": 0,
+    "amount": 13.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:39:56",
+    "dropoff": "2018-11-01T00:43:36",
+    "passengers": 1,
+    "distance": 1.1,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:10",
+    "dropoff": "2018-11-01T00:59:44",
+    "passengers": 1,
+    "distance": 5.1,
+    "tip": 4.06,
+    "amount": 24.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:11",
+    "dropoff": "2018-11-01T00:59:31",
+    "passengers": 1,
+    "distance": 11.01,
+    "tip": 0,
+    "amount": 32.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:12",
+    "dropoff": "2018-11-01T01:10:14",
+    "passengers": 1,
+    "distance": 5.22,
+    "tip": 5.82,
+    "amount": 29.12
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:17",
+    "dropoff": "2018-11-01T00:49:15",
+    "passengers": 1,
+    "distance": 0.77,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:21",
+    "dropoff": "2018-11-01T00:57:19",
+    "passengers": 1,
+    "distance": 3.51,
+    "tip": 3.16,
+    "amount": 18.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:23",
+    "dropoff": "2018-11-01T00:46:46",
+    "passengers": 1,
+    "distance": 0.68,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:40:24",
+    "dropoff": "2018-11-01T00:46:00",
+    "passengers": 2,
+    "distance": 0.9,
+    "tip": 1.45,
+    "amount": 8.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:26",
+    "dropoff": "2018-11-01T00:46:07",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 1.46,
+    "amount": 8.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:26",
+    "dropoff": "2018-11-01T00:42:00",
+    "passengers": 1,
+    "distance": 0.36,
+    "tip": 0,
+    "amount": 4.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:27",
+    "dropoff": "2018-11-01T01:01:30",
+    "passengers": 1,
+    "distance": 5.73,
+    "tip": 4.26,
+    "amount": 25.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:28",
+    "dropoff": "2018-11-01T01:14:01",
+    "passengers": 1,
+    "distance": 20.8,
+    "tip": 5,
+    "amount": 63.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:29",
+    "dropoff": "2018-11-01T01:03:52",
+    "passengers": 5,
+    "distance": 11.07,
+    "tip": 0,
+    "amount": 32.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:30",
+    "dropoff": "2018-11-01T00:47:57",
+    "passengers": 2,
+    "distance": 1.18,
+    "tip": 1.56,
+    "amount": 9.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:33",
+    "dropoff": "2018-11-01T01:01:37",
+    "passengers": 2,
+    "distance": 4.8,
+    "tip": 3.86,
+    "amount": 23.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:43",
+    "dropoff": "2018-11-01T00:50:11",
+    "passengers": 1,
+    "distance": 1.4,
+    "tip": 1.86,
+    "amount": 11.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:40:48",
+    "dropoff": "2018-11-01T00:59:41",
+    "passengers": 1,
+    "distance": 4.5,
+    "tip": 3.45,
+    "amount": 20.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:55",
+    "dropoff": "2018-11-01T00:47:34",
+    "passengers": 1,
+    "distance": 0.88,
+    "tip": 1,
+    "amount": 8.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:58",
+    "dropoff": "2018-11-01T00:57:02",
+    "passengers": 1,
+    "distance": 2,
+    "tip": 3.2,
+    "amount": 16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:40:59",
+    "dropoff": "2018-11-01T00:46:06",
+    "passengers": 1,
+    "distance": 0.69,
+    "tip": 1.36,
+    "amount": 8.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:41:00",
+    "dropoff": "2018-11-01T00:47:37",
+    "passengers": 1,
+    "distance": 1.6,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:41:05",
+    "dropoff": "2018-11-01T00:49:58",
+    "passengers": 1,
+    "distance": 1.75,
+    "tip": 1.86,
+    "amount": 11.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:41:06",
+    "dropoff": "2018-11-01T00:52:04",
+    "passengers": 1,
+    "distance": 2.25,
+    "tip": 2.26,
+    "amount": 13.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:41:08",
+    "dropoff": "2018-11-01T00:48:37",
+    "passengers": 1,
+    "distance": 2.35,
+    "tip": 2.06,
+    "amount": 12.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:41:11",
+    "dropoff": "2018-11-01T00:49:13",
+    "passengers": 5,
+    "distance": 1.87,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:41:19",
+    "dropoff": "2018-11-01T00:55:29",
+    "passengers": 2,
+    "distance": 1.56,
+    "tip": 0,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:41:20",
+    "dropoff": "2018-11-01T00:49:33",
+    "passengers": 3,
+    "distance": 0.89,
+    "tip": 0.58,
+    "amount": 8.88
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:41:21",
+    "dropoff": "2018-11-01T00:52:35",
+    "passengers": 5,
+    "distance": 2.57,
+    "tip": 2,
+    "amount": 13.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:41:32",
+    "dropoff": "2018-11-01T00:51:15",
+    "passengers": 1,
+    "distance": 1.6,
+    "tip": 1,
+    "amount": 10.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:41:33",
+    "dropoff": "2018-11-01T01:00:48",
+    "passengers": 2,
+    "distance": 3.8,
+    "tip": 0,
+    "amount": 17.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:41:47",
+    "dropoff": "2018-11-01T01:27:02",
+    "passengers": 1,
+    "distance": 18.9,
+    "tip": 11.95,
+    "amount": 71.75
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:41:50",
+    "dropoff": "2018-11-01T00:47:40",
+    "passengers": 1,
+    "distance": 0.6,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:41:51",
+    "dropoff": "2018-11-01T00:57:37",
+    "passengers": 1,
+    "distance": 3.71,
+    "tip": 3.16,
+    "amount": 18.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:41:51",
+    "dropoff": "2018-11-01T00:52:52",
+    "passengers": 1,
+    "distance": 1.33,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:41:52",
+    "dropoff": "2018-11-01T00:53:36",
+    "passengers": 2,
+    "distance": 3,
+    "tip": 2,
+    "amount": 15.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:41:53",
+    "dropoff": "2018-11-01T01:00:37",
+    "passengers": 1,
+    "distance": 2.7,
+    "tip": 3.82,
+    "amount": 19.12
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:41:59",
+    "dropoff": "2018-11-01T00:56:04",
+    "passengers": 1,
+    "distance": 2.9,
+    "tip": 2,
+    "amount": 15.3
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:42:06",
+    "dropoff": "2018-11-01T01:30:00",
+    "passengers": 1,
+    "distance": 16.57,
+    "tip": 14.64,
+    "amount": 73.2
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:42:12",
+    "dropoff": "2018-11-01T00:50:00",
+    "passengers": 1,
+    "distance": 2,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:42:19",
+    "dropoff": "2018-11-01T01:07:39",
+    "passengers": 1,
+    "distance": 10.19,
+    "tip": 9.54,
+    "amount": 41.34
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:42:21",
+    "dropoff": "2018-11-01T00:53:01",
+    "passengers": 1,
+    "distance": 2.95,
+    "tip": 0,
+    "amount": 12.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:42:23",
+    "dropoff": "2018-11-01T00:46:02",
+    "passengers": 2,
+    "distance": 1.1,
+    "tip": 1.35,
+    "amount": 8.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:42:40",
+    "dropoff": "2018-11-01T01:26:20",
+    "passengers": 2,
+    "distance": 10.82,
+    "tip": 11.34,
+    "amount": 49.14
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:42:42",
+    "dropoff": "2018-11-01T00:54:17",
+    "passengers": 1,
+    "distance": 3.09,
+    "tip": 0,
+    "amount": 13.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:42:47",
+    "dropoff": "2018-11-01T00:59:21",
+    "passengers": 1,
+    "distance": 2.81,
+    "tip": 0,
+    "amount": 14.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:42:49",
+    "dropoff": "2018-11-01T00:54:17",
+    "passengers": 1,
+    "distance": 2.1,
+    "tip": 2.25,
+    "amount": 13.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:42:51",
+    "dropoff": "2018-11-01T01:17:36",
+    "passengers": 1,
+    "distance": 15.78,
+    "tip": 3,
+    "amount": 48.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:42:55",
+    "dropoff": "2018-11-01T00:47:29",
+    "passengers": 5,
+    "distance": 0.87,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:42:56",
+    "dropoff": "2018-11-01T01:08:35",
+    "passengers": 1,
+    "distance": 7.95,
+    "tip": 0,
+    "amount": 28.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:42:57",
+    "dropoff": "2018-11-01T00:59:28",
+    "passengers": 1,
+    "distance": 3.33,
+    "tip": 2.96,
+    "amount": 17.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:00",
+    "dropoff": "2018-11-01T01:05:45",
+    "passengers": 1,
+    "distance": 3.42,
+    "tip": 3.56,
+    "amount": 21.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:02",
+    "dropoff": "2018-11-01T01:05:26",
+    "passengers": 1,
+    "distance": 3.62,
+    "tip": 3.56,
+    "amount": 21.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:06",
+    "dropoff": "2018-11-01T01:14:57",
+    "passengers": 1,
+    "distance": 10.11,
+    "tip": 0,
+    "amount": 33.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:07",
+    "dropoff": "2018-11-01T00:57:10",
+    "passengers": 4,
+    "distance": 3.45,
+    "tip": 3.06,
+    "amount": 18.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:12",
+    "dropoff": "2018-11-01T01:09:22",
+    "passengers": 1,
+    "distance": 6.25,
+    "tip": 0,
+    "amount": 24.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:43:15",
+    "dropoff": "2018-11-01T01:10:19",
+    "passengers": 1,
+    "distance": 9.9,
+    "tip": 0,
+    "amount": 32.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:16",
+    "dropoff": "2018-11-01T00:54:37",
+    "passengers": 1,
+    "distance": 1.01,
+    "tip": 1.96,
+    "amount": 11.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:43:16",
+    "dropoff": "2018-11-01T00:50:44",
+    "passengers": 1,
+    "distance": 1.2,
+    "tip": 1.65,
+    "amount": 9.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:24",
+    "dropoff": "2018-11-01T00:48:03",
+    "passengers": 1,
+    "distance": 0.93,
+    "tip": 1,
+    "amount": 7.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:43:25",
+    "dropoff": "2018-11-01T00:44:55",
+    "passengers": 1,
+    "distance": 0.4,
+    "tip": 0,
+    "amount": 4.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:26",
+    "dropoff": "2018-11-01T00:45:34",
+    "passengers": 1,
+    "distance": 0.51,
+    "tip": 0,
+    "amount": 5.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:27",
+    "dropoff": "2018-11-01T00:46:34",
+    "passengers": 1,
+    "distance": 0.7,
+    "tip": 1.16,
+    "amount": 6.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:33",
+    "dropoff": "2018-11-01T00:53:47",
+    "passengers": 1,
+    "distance": 1.32,
+    "tip": 1.96,
+    "amount": 11.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:37",
+    "dropoff": "2018-11-01T00:45:22",
+    "passengers": 1,
+    "distance": 0.4,
+    "tip": 0,
+    "amount": 4.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:42",
+    "dropoff": "2018-11-01T01:00:30",
+    "passengers": 3,
+    "distance": 4.51,
+    "tip": 0,
+    "amount": 17.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:43:45",
+    "dropoff": "2018-11-01T00:56:34",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 1.9,
+    "amount": 12.2
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:48",
+    "dropoff": "2018-11-02T00:34:55",
+    "passengers": 1,
+    "distance": 3.01,
+    "tip": 0,
+    "amount": 13.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:49",
+    "dropoff": "2018-11-01T00:50:47",
+    "passengers": 5,
+    "distance": 1.54,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:53",
+    "dropoff": "2018-11-01T00:53:10",
+    "passengers": 1,
+    "distance": 1.34,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:56",
+    "dropoff": "2018-11-01T00:49:43",
+    "passengers": 1,
+    "distance": 0.63,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:43:58",
+    "dropoff": "2018-11-01T01:02:30",
+    "passengers": 1,
+    "distance": 6.12,
+    "tip": 0,
+    "amount": 21.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:44:05",
+    "dropoff": "2018-11-01T01:00:36",
+    "passengers": 1,
+    "distance": 3.1,
+    "tip": 0,
+    "amount": 15.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:44:09",
+    "dropoff": "2018-11-01T01:26:42",
+    "passengers": 1,
+    "distance": 16.89,
+    "tip": 10,
+    "amount": 68.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:44:12",
+    "dropoff": "2018-11-01T00:49:27",
+    "passengers": 1,
+    "distance": 0.85,
+    "tip": 1.36,
+    "amount": 8.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:44:18",
+    "dropoff": "2018-11-01T00:58:53",
+    "passengers": 1,
+    "distance": 4.61,
+    "tip": 3.26,
+    "amount": 19.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:44:24",
+    "dropoff": "2018-11-01T00:51:20",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 1.2,
+    "amount": 9
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:44:27",
+    "dropoff": "2018-11-01T00:52:49",
+    "passengers": 1,
+    "distance": 1.44,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:44:40",
+    "dropoff": "2018-11-01T00:50:19",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 1,
+    "amount": 8.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:44:45",
+    "dropoff": "2018-11-01T01:13:45",
+    "passengers": 1,
+    "distance": 9.48,
+    "tip": 0,
+    "amount": 31.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:44:51",
+    "dropoff": "2018-11-01T00:52:06",
+    "passengers": 2,
+    "distance": 1.7,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:44:53",
+    "dropoff": "2018-11-01T00:50:14",
+    "passengers": 1,
+    "distance": 0.5,
+    "tip": 1,
+    "amount": 7.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:45:02",
+    "dropoff": "2018-11-01T00:55:04",
+    "passengers": 3,
+    "distance": 1.1,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:45:10",
+    "dropoff": "2018-11-01T00:54:14",
+    "passengers": 2,
+    "distance": 1.29,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:45:13",
+    "dropoff": "2018-11-01T00:53:24",
+    "passengers": 6,
+    "distance": 1.36,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:45:20",
+    "dropoff": "2018-11-01T00:52:56",
+    "passengers": 1,
+    "distance": 1.4,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:45:41",
+    "dropoff": "2018-11-01T01:01:20",
+    "passengers": 1,
+    "distance": 1.7,
+    "tip": 1.5,
+    "amount": 13.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:45:59",
+    "dropoff": "2018-11-01T00:52:44",
+    "passengers": 6,
+    "distance": 0.83,
+    "tip": 2.19,
+    "amount": 9.49
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:05",
+    "dropoff": "2018-11-01T00:54:02",
+    "passengers": 2,
+    "distance": 2.02,
+    "tip": 1.96,
+    "amount": 11.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:08",
+    "dropoff": "2018-11-01T00:57:39",
+    "passengers": 2,
+    "distance": 2.36,
+    "tip": 2.36,
+    "amount": 14.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:08",
+    "dropoff": "2018-11-01T00:58:46",
+    "passengers": 1,
+    "distance": 4.78,
+    "tip": 3.46,
+    "amount": 20.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:11",
+    "dropoff": "2018-11-01T00:49:46",
+    "passengers": 5,
+    "distance": 0.47,
+    "tip": 1.2,
+    "amount": 7
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:13",
+    "dropoff": "2018-11-01T00:50:16",
+    "passengers": 1,
+    "distance": 0.71,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:46:19",
+    "dropoff": "2018-11-01T00:57:23",
+    "passengers": 3,
+    "distance": 2,
+    "tip": 0,
+    "amount": 10.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:23",
+    "dropoff": "2018-11-01T00:46:36",
+    "passengers": 1,
+    "distance": 0,
+    "tip": 5,
+    "amount": 75.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:26",
+    "dropoff": "2018-11-01T01:01:02",
+    "passengers": 1,
+    "distance": 7.1,
+    "tip": 3,
+    "amount": 25.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:32",
+    "dropoff": "2018-11-01T01:02:42",
+    "passengers": 1,
+    "distance": 2.38,
+    "tip": 0,
+    "amount": 13.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:38",
+    "dropoff": "2018-11-01T00:55:27",
+    "passengers": 2,
+    "distance": 1.73,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:45",
+    "dropoff": "2018-11-01T00:52:38",
+    "passengers": 2,
+    "distance": 1.02,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:48",
+    "dropoff": "2018-11-01T00:59:20",
+    "passengers": 2,
+    "distance": 2.1,
+    "tip": 2.36,
+    "amount": 14.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:52",
+    "dropoff": "2018-11-01T01:02:30",
+    "passengers": 2,
+    "distance": 2.26,
+    "tip": 1.7,
+    "amount": 15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:46:57",
+    "dropoff": "2018-11-01T00:58:24",
+    "passengers": 3,
+    "distance": 2.66,
+    "tip": 1.5,
+    "amount": 14.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:00",
+    "dropoff": "2018-11-01T01:03:35",
+    "passengers": 5,
+    "distance": 5.62,
+    "tip": 2,
+    "amount": 22.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:05",
+    "dropoff": "2018-11-01T00:57:20",
+    "passengers": 1,
+    "distance": 3.72,
+    "tip": 0,
+    "amount": 13.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:06",
+    "dropoff": "2018-11-01T00:50:53",
+    "passengers": 1,
+    "distance": 1.31,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:47:07",
+    "dropoff": "2018-11-01T01:06:51",
+    "passengers": 1,
+    "distance": 6.4,
+    "tip": 0,
+    "amount": 28.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:15",
+    "dropoff": "2018-11-01T01:01:43",
+    "passengers": 1,
+    "distance": 5.03,
+    "tip": 3.76,
+    "amount": 22.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:17",
+    "dropoff": "2018-11-01T00:53:56",
+    "passengers": 5,
+    "distance": 0.95,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:47:23",
+    "dropoff": "2018-11-01T00:55:54",
+    "passengers": 2,
+    "distance": 1.5,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:28",
+    "dropoff": "2018-11-01T00:55:51",
+    "passengers": 4,
+    "distance": 1.29,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:47:30",
+    "dropoff": "2018-11-01T00:50:40",
+    "passengers": 1,
+    "distance": 0.4,
+    "tip": 0.7,
+    "amount": 6
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:47:31",
+    "dropoff": "2018-11-01T00:51:07",
+    "passengers": 2,
+    "distance": 0.6,
+    "tip": 1.15,
+    "amount": 6.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:35",
+    "dropoff": "2018-11-01T00:57:17",
+    "passengers": 1,
+    "distance": 2.42,
+    "tip": 5,
+    "amount": 16.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:35",
+    "dropoff": "2018-11-01T00:56:01",
+    "passengers": 5,
+    "distance": 1.77,
+    "tip": 1.86,
+    "amount": 11.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:47:35",
+    "dropoff": "2018-11-01T01:01:21",
+    "passengers": 1,
+    "distance": 2.4,
+    "tip": 1,
+    "amount": 13.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:47:39",
+    "dropoff": "2018-11-01T00:57:20",
+    "passengers": 0,
+    "distance": 0.7,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:40",
+    "dropoff": "2018-11-01T01:18:43",
+    "passengers": 1,
+    "distance": 21.06,
+    "tip": 11.56,
+    "amount": 69.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:40",
+    "dropoff": "2018-11-01T00:55:28",
+    "passengers": 1,
+    "distance": 1.07,
+    "tip": 1.2,
+    "amount": 9.5
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:47:41",
+    "dropoff": "2018-11-01T00:57:31",
+    "passengers": 1,
+    "distance": 2.4,
+    "tip": 3.2,
+    "amount": 14
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:45",
+    "dropoff": "2018-11-01T01:23:23",
+    "passengers": 1,
+    "distance": 8.88,
+    "tip": 6.36,
+    "amount": 38.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:50",
+    "dropoff": "2018-11-01T01:18:50",
+    "passengers": 1,
+    "distance": 7.07,
+    "tip": 5.46,
+    "amount": 32.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:53",
+    "dropoff": "2018-11-01T01:04:11",
+    "passengers": 1,
+    "distance": 2.88,
+    "tip": 1,
+    "amount": 14.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:47:57",
+    "dropoff": "2018-11-01T00:56:06",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 1.85,
+    "amount": 11.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:47:58",
+    "dropoff": "2018-11-01T01:06:24",
+    "passengers": 1,
+    "distance": 4.87,
+    "tip": 0,
+    "amount": 18.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:47:59",
+    "dropoff": "2018-11-01T00:56:39",
+    "passengers": 2,
+    "distance": 2.5,
+    "tip": 2.7,
+    "amount": 13.5
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:48:02",
+    "dropoff": "2018-11-01T01:08:15",
+    "passengers": 1,
+    "distance": 4.57,
+    "tip": 0,
+    "amount": 18.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:48:06",
+    "dropoff": "2018-11-01T01:05:59",
+    "passengers": 1,
+    "distance": 5.55,
+    "tip": 5.21,
+    "amount": 31.27
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:48:06",
+    "dropoff": "2018-11-01T00:52:49",
+    "passengers": 2,
+    "distance": 0.7,
+    "tip": 1.55,
+    "amount": 7.85
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:48:09",
+    "dropoff": "2018-11-01T01:02:01",
+    "passengers": 1,
+    "distance": 3.6,
+    "tip": 2.95,
+    "amount": 17.75
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:48:20",
+    "dropoff": "2018-11-01T01:01:52",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 0,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:48:21",
+    "dropoff": "2018-11-01T01:06:37",
+    "passengers": 2,
+    "distance": 4.81,
+    "tip": 3.66,
+    "amount": 21.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:48:23",
+    "dropoff": "2018-11-01T00:59:39",
+    "passengers": 1,
+    "distance": 2.5,
+    "tip": 2,
+    "amount": 13.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:48:25",
+    "dropoff": "2018-11-01T00:56:55",
+    "passengers": 3,
+    "distance": 2.3,
+    "tip": 1,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:48:28",
+    "dropoff": "2018-11-01T00:55:51",
+    "passengers": 2,
+    "distance": 1.08,
+    "tip": 1.56,
+    "amount": 9.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:48:32",
+    "dropoff": "2018-11-01T00:53:22",
+    "passengers": 1,
+    "distance": 1.34,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:48:39",
+    "dropoff": "2018-11-01T01:03:15",
+    "passengers": 1,
+    "distance": 2.34,
+    "tip": 0,
+    "amount": 12.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:48:40",
+    "dropoff": "2018-11-01T00:53:10",
+    "passengers": 2,
+    "distance": 1.17,
+    "tip": 1.36,
+    "amount": 8.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:48:51",
+    "dropoff": "2018-11-01T01:16:54",
+    "passengers": 6,
+    "distance": 5.86,
+    "tip": 4.86,
+    "amount": 29.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:48:52",
+    "dropoff": "2018-11-01T00:55:25",
+    "passengers": 3,
+    "distance": 0.7,
+    "tip": 0.5,
+    "amount": 7.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:48:59",
+    "dropoff": "2018-11-01T01:06:20",
+    "passengers": 1,
+    "distance": 3.48,
+    "tip": 3.06,
+    "amount": 18.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:49:00",
+    "dropoff": "2018-11-01T00:57:21",
+    "passengers": 1,
+    "distance": 1.43,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:49:01",
+    "dropoff": "2018-11-01T00:58:49",
+    "passengers": 1,
+    "distance": 1.44,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:49:03",
+    "dropoff": "2018-11-01T00:59:29",
+    "passengers": 1,
+    "distance": 3.3,
+    "tip": 2.55,
+    "amount": 15.35
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:49:06",
+    "dropoff": "2018-11-01T00:49:31",
+    "passengers": 2,
+    "distance": 0,
+    "tip": 0,
+    "amount": 3.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:49:08",
+    "dropoff": "2018-11-01T01:02:39",
+    "passengers": 1,
+    "distance": 1.85,
+    "tip": 0,
+    "amount": 11.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:49:25",
+    "dropoff": "2018-11-01T01:00:13",
+    "passengers": 5,
+    "distance": 2.07,
+    "tip": 0,
+    "amount": 10.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:49:27",
+    "dropoff": "2018-11-01T00:54:11",
+    "passengers": 1,
+    "distance": 0.52,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:49:30",
+    "dropoff": "2018-11-01T00:53:55",
+    "passengers": 1,
+    "distance": 0.5,
+    "tip": 1.25,
+    "amount": 7.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:49:32",
+    "dropoff": "2018-11-01T01:08:04",
+    "passengers": 1,
+    "distance": 5.37,
+    "tip": 3.86,
+    "amount": 23.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:49:37",
+    "dropoff": "2018-11-01T01:00:10",
+    "passengers": 1,
+    "distance": 2.8,
+    "tip": 2.45,
+    "amount": 14.75
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:49:41",
+    "dropoff": "2018-11-01T01:05:58",
+    "passengers": 1,
+    "distance": 2.7,
+    "tip": 2.85,
+    "amount": 17.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:49:44",
+    "dropoff": "2018-11-01T01:00:32",
+    "passengers": 1,
+    "distance": 2.13,
+    "tip": 2.26,
+    "amount": 13.56
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:49:47",
+    "dropoff": "2018-11-01T01:37:10",
+    "passengers": 1,
+    "distance": 20.36,
+    "tip": 15.95,
+    "amount": 79.75
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:49:48",
+    "dropoff": "2018-11-01T00:52:24",
+    "passengers": 1,
+    "distance": 0.3,
+    "tip": 0,
+    "amount": 4.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:49:52",
+    "dropoff": "2018-11-01T00:55:16",
+    "passengers": 1,
+    "distance": 1.26,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:49:53",
+    "dropoff": "2018-11-01T01:17:40",
+    "passengers": 2,
+    "distance": 7.8,
+    "tip": 6.95,
+    "amount": 34.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:49:56",
+    "dropoff": "2018-11-01T00:56:33",
+    "passengers": 6,
+    "distance": 1.3,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:49:58",
+    "dropoff": "2018-11-01T00:56:57",
+    "passengers": 2,
+    "distance": 0.7,
+    "tip": 1.8,
+    "amount": 9.1
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:50:00",
+    "dropoff": "2018-11-01T01:01:15",
+    "passengers": 1,
+    "distance": 1.93,
+    "tip": 0,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:50:06",
+    "dropoff": "2018-11-01T00:59:59",
+    "passengers": 1,
+    "distance": 1.44,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:50:13",
+    "dropoff": "2018-11-01T00:59:48",
+    "passengers": 2,
+    "distance": 1.17,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:50:15",
+    "dropoff": "2018-11-01T01:01:34",
+    "passengers": 1,
+    "distance": 1.7,
+    "tip": 1,
+    "amount": 11.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:50:18",
+    "dropoff": "2018-11-01T01:02:54",
+    "passengers": 1,
+    "distance": 2.52,
+    "tip": 3.08,
+    "amount": 15.38
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:50:25",
+    "dropoff": "2018-11-01T00:52:36",
+    "passengers": 2,
+    "distance": 0.5,
+    "tip": 1.55,
+    "amount": 6.85
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:50:27",
+    "dropoff": "2018-11-01T01:10:38",
+    "passengers": 1,
+    "distance": 4.99,
+    "tip": 0,
+    "amount": 19.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:50:30",
+    "dropoff": "2018-11-01T01:05:51",
+    "passengers": 1,
+    "distance": 3.32,
+    "tip": 2.86,
+    "amount": 17.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:50:31",
+    "dropoff": "2018-11-01T01:12:41",
+    "passengers": 1,
+    "distance": 6.8,
+    "tip": 0,
+    "amount": 24.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:50:33",
+    "dropoff": "2018-11-01T00:58:53",
+    "passengers": 1,
+    "distance": 1.6,
+    "tip": 1.86,
+    "amount": 11.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:50:36",
+    "dropoff": "2018-11-01T00:52:46",
+    "passengers": 1,
+    "distance": 0.42,
+    "tip": 0.96,
+    "amount": 5.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:50:46",
+    "dropoff": "2018-11-01T01:06:55",
+    "passengers": 3,
+    "distance": 2.82,
+    "tip": 2.86,
+    "amount": 17.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:50:47",
+    "dropoff": "2018-11-01T01:09:14",
+    "passengers": 1,
+    "distance": 3.5,
+    "tip": 0,
+    "amount": 15.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:51:01",
+    "dropoff": "2018-11-01T00:56:59",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 0.7,
+    "amount": 8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:51:12",
+    "dropoff": "2018-11-01T00:56:05",
+    "passengers": 5,
+    "distance": 1.67,
+    "tip": 1.95,
+    "amount": 9.75
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:51:16",
+    "dropoff": "2018-11-01T00:59:06",
+    "passengers": 2,
+    "distance": 1.3,
+    "tip": 0,
+    "amount": 8.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:51:20",
+    "dropoff": "2018-11-01T01:03:55",
+    "passengers": 1,
+    "distance": 1.9,
+    "tip": 1.75,
+    "amount": 13.05
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:51:22",
+    "dropoff": "2018-11-01T01:07:57",
+    "passengers": 1,
+    "distance": 3.08,
+    "tip": 2.96,
+    "amount": 17.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:51:32",
+    "dropoff": "2018-11-01T01:01:28",
+    "passengers": 2,
+    "distance": 3.99,
+    "tip": 0,
+    "amount": 14.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:51:39",
+    "dropoff": "2018-11-01T01:04:41",
+    "passengers": 1,
+    "distance": 2,
+    "tip": 0,
+    "amount": 11.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:51:49",
+    "dropoff": "2018-11-01T00:56:50",
+    "passengers": 2,
+    "distance": 0.8,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:51:53",
+    "dropoff": "2018-11-01T01:14:23",
+    "passengers": 1,
+    "distance": 4.81,
+    "tip": 0,
+    "amount": 20.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:51:55",
+    "dropoff": "2018-11-01T00:55:12",
+    "passengers": 1,
+    "distance": 0.43,
+    "tip": 0,
+    "amount": 5.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:52:03",
+    "dropoff": "2018-11-01T00:57:57",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:52:10",
+    "dropoff": "2018-11-01T00:59:43",
+    "passengers": 1,
+    "distance": 0.9,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:52:11",
+    "dropoff": "2018-11-01T00:59:55",
+    "passengers": 0,
+    "distance": 1.2,
+    "tip": 1,
+    "amount": 9.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:52:20",
+    "dropoff": "2018-11-01T01:16:50",
+    "passengers": 1,
+    "distance": 16.76,
+    "tip": 10.51,
+    "amount": 63.07
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:52:20",
+    "dropoff": "2018-11-01T01:06:35",
+    "passengers": 1,
+    "distance": 3.34,
+    "tip": 1,
+    "amount": 15.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:52:21",
+    "dropoff": "2018-11-01T00:55:31",
+    "passengers": 1,
+    "distance": 0.2,
+    "tip": 0,
+    "amount": 5.3
+  },
+  {
+    "vendor": 4,
+    "pickup": "2018-11-01T00:52:23",
+    "dropoff": "2018-11-01T01:00:21",
+    "passengers": 1,
+    "distance": 2.08,
+    "tip": 1.96,
+    "amount": 11.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:52:25",
+    "dropoff": "2018-11-01T01:09:28",
+    "passengers": 5,
+    "distance": 2.69,
+    "tip": 2.86,
+    "amount": 17.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:52:30",
+    "dropoff": "2018-11-01T00:59:18",
+    "passengers": 1,
+    "distance": 1.16,
+    "tip": 1.95,
+    "amount": 9.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:52:40",
+    "dropoff": "2018-11-01T01:06:11",
+    "passengers": 1,
+    "distance": 1.47,
+    "tip": 1,
+    "amount": 11.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:52:40",
+    "dropoff": "2018-11-01T01:12:19",
+    "passengers": 1,
+    "distance": 5.3,
+    "tip": 2,
+    "amount": 21.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:52:44",
+    "dropoff": "2018-11-01T01:05:41",
+    "passengers": 1,
+    "distance": 2.1,
+    "tip": 2.35,
+    "amount": 14.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:52:55",
+    "dropoff": "2018-11-01T00:56:37",
+    "passengers": 2,
+    "distance": 0.42,
+    "tip": 1.16,
+    "amount": 6.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:52:56",
+    "dropoff": "2018-11-01T00:59:53",
+    "passengers": 3,
+    "distance": 1.4,
+    "tip": 1.65,
+    "amount": 9.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:52:59",
+    "dropoff": "2018-11-01T01:02:07",
+    "passengers": 2,
+    "distance": 1.69,
+    "tip": 1.86,
+    "amount": 11.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:53:01",
+    "dropoff": "2018-11-01T01:13:45",
+    "passengers": 1,
+    "distance": 3.2,
+    "tip": 3.25,
+    "amount": 19.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:04",
+    "dropoff": "2018-11-01T01:16:49",
+    "passengers": 1,
+    "distance": 4.78,
+    "tip": 0,
+    "amount": 20.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:04",
+    "dropoff": "2018-11-01T01:16:44",
+    "passengers": 2,
+    "distance": 9.02,
+    "tip": 5.96,
+    "amount": 35.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:53:08",
+    "dropoff": "2018-11-01T01:02:10",
+    "passengers": 4,
+    "distance": 0.7,
+    "tip": 0,
+    "amount": 8.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:12",
+    "dropoff": "2018-11-01T01:02:34",
+    "passengers": 1,
+    "distance": 3.68,
+    "tip": 0,
+    "amount": 12.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:53:13",
+    "dropoff": "2018-11-01T01:26:38",
+    "passengers": 1,
+    "distance": 16.8,
+    "tip": 12.05,
+    "amount": 60.35
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:13",
+    "dropoff": "2018-11-01T00:56:23",
+    "passengers": 6,
+    "distance": 0.54,
+    "tip": 0,
+    "amount": 5.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:53:15",
+    "dropoff": "2018-11-01T01:02:25",
+    "passengers": 1,
+    "distance": 2.6,
+    "tip": 1,
+    "amount": 12.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:15",
+    "dropoff": "2018-11-01T01:07:29",
+    "passengers": 1,
+    "distance": 3.13,
+    "tip": 0,
+    "amount": 14.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:53:16",
+    "dropoff": "2018-11-01T01:06:14",
+    "passengers": 1,
+    "distance": 2.4,
+    "tip": 2,
+    "amount": 13.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:20",
+    "dropoff": "2018-11-01T00:55:59",
+    "passengers": 2,
+    "distance": 0.79,
+    "tip": 0,
+    "amount": 5.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:23",
+    "dropoff": "2018-11-01T00:59:42",
+    "passengers": 5,
+    "distance": 1.24,
+    "tip": 1.46,
+    "amount": 8.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:33",
+    "dropoff": "2018-11-01T01:03:40",
+    "passengers": 1,
+    "distance": 1.96,
+    "tip": 2.06,
+    "amount": 12.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:53:34",
+    "dropoff": "2018-11-01T00:57:45",
+    "passengers": 2,
+    "distance": 0.9,
+    "tip": 1.35,
+    "amount": 8.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:36",
+    "dropoff": "2018-11-01T01:15:02",
+    "passengers": 1,
+    "distance": 5.86,
+    "tip": 2.18,
+    "amount": 23.98
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:53:44",
+    "dropoff": "2018-11-01T00:59:20",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 2,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:44",
+    "dropoff": "2018-11-01T01:06:32",
+    "passengers": 1,
+    "distance": 2.14,
+    "tip": 2.36,
+    "amount": 14.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:44",
+    "dropoff": "2018-11-01T01:01:15",
+    "passengers": 1,
+    "distance": 1.2,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:53:50",
+    "dropoff": "2018-11-01T01:08:23",
+    "passengers": 1,
+    "distance": 5.7,
+    "tip": 4.05,
+    "amount": 24.35
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:50",
+    "dropoff": "2018-11-01T00:56:01",
+    "passengers": 1,
+    "distance": 0.39,
+    "tip": 0.48,
+    "amount": 5.28
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:51",
+    "dropoff": "2018-11-01T01:01:56",
+    "passengers": 1,
+    "distance": 1.1,
+    "tip": 1.66,
+    "amount": 9.96
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:53",
+    "dropoff": "2018-11-01T01:02:04",
+    "passengers": 1,
+    "distance": 2.33,
+    "tip": 1.7,
+    "amount": 12
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:53:55",
+    "dropoff": "2018-11-01T01:06:14",
+    "passengers": 1,
+    "distance": 2.21,
+    "tip": 2.36,
+    "amount": 14.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:12",
+    "dropoff": "2018-11-01T01:07:30",
+    "passengers": 1,
+    "distance": 2.73,
+    "tip": 0,
+    "amount": 13.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:21",
+    "dropoff": "2018-11-01T01:32:17",
+    "passengers": 1,
+    "distance": 17.53,
+    "tip": 10,
+    "amount": 68.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:21",
+    "dropoff": "2018-11-01T01:05:18",
+    "passengers": 1,
+    "distance": 1.79,
+    "tip": 1,
+    "amount": 11.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:23",
+    "dropoff": "2018-11-01T01:14:44",
+    "passengers": 3,
+    "distance": 6.76,
+    "tip": 4.56,
+    "amount": 27.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:26",
+    "dropoff": "2018-11-01T00:58:55",
+    "passengers": 1,
+    "distance": 0.85,
+    "tip": 1.58,
+    "amount": 7.88
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:54:31",
+    "dropoff": "2018-11-01T01:24:37",
+    "passengers": 3,
+    "distance": 6.1,
+    "tip": 5.15,
+    "amount": 30.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:38",
+    "dropoff": "2018-11-01T01:02:21",
+    "passengers": 2,
+    "distance": 1.49,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:38",
+    "dropoff": "2018-11-01T00:57:51",
+    "passengers": 1,
+    "distance": 0.49,
+    "tip": 0,
+    "amount": 5.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:41",
+    "dropoff": "2018-11-01T00:58:09",
+    "passengers": 2,
+    "distance": 0.57,
+    "tip": 1.45,
+    "amount": 7.25
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:54:45",
+    "dropoff": "2018-11-01T01:05:15",
+    "passengers": 1,
+    "distance": 1.1,
+    "tip": 1,
+    "amount": 10.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:45",
+    "dropoff": "2018-11-01T01:04:19",
+    "passengers": 1,
+    "distance": 1.54,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:46",
+    "dropoff": "2018-11-01T01:03:27",
+    "passengers": 1,
+    "distance": 1.89,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:48",
+    "dropoff": "2018-11-01T01:04:09",
+    "passengers": 2,
+    "distance": 1.12,
+    "tip": 1.76,
+    "amount": 10.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:54:49",
+    "dropoff": "2018-11-01T01:05:07",
+    "passengers": 3,
+    "distance": 1.2,
+    "tip": 1.85,
+    "amount": 11.15
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:54:50",
+    "dropoff": "2018-11-01T01:04:01",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 1,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:54:56",
+    "dropoff": "2018-11-01T01:25:37",
+    "passengers": 1,
+    "distance": 6.65,
+    "tip": 0,
+    "amount": 26.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:54:58",
+    "dropoff": "2018-11-01T01:00:05",
+    "passengers": 1,
+    "distance": 0.7,
+    "tip": 0,
+    "amount": 6.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:55:08",
+    "dropoff": "2018-11-01T01:05:14",
+    "passengers": 1,
+    "distance": 2.83,
+    "tip": 3.54,
+    "amount": 15.34
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:55:09",
+    "dropoff": "2018-11-01T01:05:18",
+    "passengers": 1,
+    "distance": 1.3,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:55:10",
+    "dropoff": "2018-11-01T01:03:43",
+    "passengers": 1,
+    "distance": 2,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:55:17",
+    "dropoff": "2018-11-01T01:06:51",
+    "passengers": 4,
+    "distance": 2.1,
+    "tip": 3.2,
+    "amount": 14
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:55:19",
+    "dropoff": "2018-11-01T01:18:00",
+    "passengers": 1,
+    "distance": 4.3,
+    "tip": 5.6,
+    "amount": 24.4
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:55:23",
+    "dropoff": "2018-11-01T01:10:17",
+    "passengers": 2,
+    "distance": 2.08,
+    "tip": 2.46,
+    "amount": 14.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:55:25",
+    "dropoff": "2018-11-01T01:00:32",
+    "passengers": 3,
+    "distance": 0.62,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:55:26",
+    "dropoff": "2018-11-01T00:57:00",
+    "passengers": 1,
+    "distance": 0.3,
+    "tip": 0,
+    "amount": 4.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:55:29",
+    "dropoff": "2018-11-01T01:25:29",
+    "passengers": 1,
+    "distance": 8.7,
+    "tip": 4.47,
+    "amount": 34.27
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:55:30",
+    "dropoff": "2018-11-01T01:03:53",
+    "passengers": 1,
+    "distance": 2.2,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:55:32",
+    "dropoff": "2018-11-01T01:16:34",
+    "passengers": 0,
+    "distance": 4.7,
+    "tip": 0,
+    "amount": 18.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:55:43",
+    "dropoff": "2018-11-01T01:04:06",
+    "passengers": 1,
+    "distance": 1.1,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:55:44",
+    "dropoff": "2018-11-01T01:06:35",
+    "passengers": 1,
+    "distance": 2.73,
+    "tip": 2,
+    "amount": 13.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:55:46",
+    "dropoff": "2018-11-01T01:03:48",
+    "passengers": 1,
+    "distance": 1.51,
+    "tip": 0,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:55:49",
+    "dropoff": "2018-11-01T01:03:54",
+    "passengers": 1,
+    "distance": 1.82,
+    "tip": 2.94,
+    "amount": 12.74
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:55:50",
+    "dropoff": "2018-11-01T00:58:43",
+    "passengers": 1,
+    "distance": 0.6,
+    "tip": 1.15,
+    "amount": 6.95
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:55:53",
+    "dropoff": "2018-11-01T01:02:41",
+    "passengers": 1,
+    "distance": 2,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:55:56",
+    "dropoff": "2018-11-01T01:09:58",
+    "passengers": 5,
+    "distance": 1.85,
+    "tip": 0,
+    "amount": 11.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:56:06",
+    "dropoff": "2018-11-01T01:17:31",
+    "passengers": 1,
+    "distance": 10.4,
+    "tip": 0,
+    "amount": 37.06
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:56:09",
+    "dropoff": "2018-11-01T01:14:29",
+    "passengers": 5,
+    "distance": 2.16,
+    "tip": 2.14,
+    "amount": 16.44
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:56:14",
+    "dropoff": "2018-11-01T01:06:10",
+    "passengers": 1,
+    "distance": 1.36,
+    "tip": 1.96,
+    "amount": 11.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:56:18",
+    "dropoff": "2018-11-01T01:13:23",
+    "passengers": 1,
+    "distance": 4.84,
+    "tip": 0,
+    "amount": 18.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:56:23",
+    "dropoff": "2018-11-01T01:08:47",
+    "passengers": 1,
+    "distance": 3.2,
+    "tip": 2.76,
+    "amount": 16.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:56:25",
+    "dropoff": "2018-11-01T01:04:04",
+    "passengers": 1,
+    "distance": 3.1,
+    "tip": 3.5,
+    "amount": 15.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:56:27",
+    "dropoff": "2018-11-01T01:08:19",
+    "passengers": 1,
+    "distance": 4.63,
+    "tip": 0,
+    "amount": 16.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:56:27",
+    "dropoff": "2018-11-01T01:01:03",
+    "passengers": 3,
+    "distance": 0.84,
+    "tip": 0,
+    "amount": -6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:56:31",
+    "dropoff": "2018-11-01T01:49:23",
+    "passengers": 1,
+    "distance": 17.31,
+    "tip": 10.56,
+    "amount": 63.36
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:56:33",
+    "dropoff": "2018-11-01T01:10:18",
+    "passengers": 1,
+    "distance": 2,
+    "tip": 2.35,
+    "amount": 14.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:56:45",
+    "dropoff": "2018-11-01T01:09:59",
+    "passengers": 1,
+    "distance": 2.16,
+    "tip": 2.36,
+    "amount": 14.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:56:45",
+    "dropoff": "2018-11-01T01:02:43",
+    "passengers": 1,
+    "distance": 0.68,
+    "tip": 1.36,
+    "amount": 8.16
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:56:56",
+    "dropoff": "2018-11-01T01:04:53",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:56:56",
+    "dropoff": "2018-11-01T01:12:09",
+    "passengers": 1,
+    "distance": 5.4,
+    "tip": 3.96,
+    "amount": 23.76
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:57:00",
+    "dropoff": "2018-11-01T01:07:08",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 0,
+    "amount": 10.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:57:00",
+    "dropoff": "2018-11-01T01:03:07",
+    "passengers": 6,
+    "distance": 0.72,
+    "tip": 1.36,
+    "amount": 8.16
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:57:01",
+    "dropoff": "2018-11-01T01:31:02",
+    "passengers": 1,
+    "distance": 20.18,
+    "tip": 11.46,
+    "amount": 68.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:57:03",
+    "dropoff": "2018-11-01T00:59:03",
+    "passengers": 1,
+    "distance": 0.34,
+    "tip": 0,
+    "amount": 4.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:57:04",
+    "dropoff": "2018-11-01T01:03:39",
+    "passengers": 2,
+    "distance": 0.91,
+    "tip": 1.46,
+    "amount": 8.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:57:12",
+    "dropoff": "2018-11-01T01:11:45",
+    "passengers": 1,
+    "distance": 4.35,
+    "tip": 0,
+    "amount": 16.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:57:23",
+    "dropoff": "2018-11-01T01:03:09",
+    "passengers": 3,
+    "distance": 0.9,
+    "tip": 0,
+    "amount": 7.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:57:24",
+    "dropoff": "2018-11-01T01:09:10",
+    "passengers": 1,
+    "distance": 3.01,
+    "tip": 2.46,
+    "amount": 14.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:57:35",
+    "dropoff": "2018-11-01T01:07:26",
+    "passengers": 3,
+    "distance": 1.21,
+    "tip": 0.93,
+    "amount": 10.23
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:57:41",
+    "dropoff": "2018-11-01T01:03:04",
+    "passengers": 1,
+    "distance": 1.4,
+    "tip": 1,
+    "amount": 8.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:57:46",
+    "dropoff": "2018-11-01T01:02:00",
+    "passengers": 1,
+    "distance": 0.69,
+    "tip": 1.26,
+    "amount": 7.56
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:57:47",
+    "dropoff": "2018-11-01T01:03:54",
+    "passengers": 1,
+    "distance": 1,
+    "tip": 0,
+    "amount": 7.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:57:49",
+    "dropoff": "2018-11-01T01:05:02",
+    "passengers": 1,
+    "distance": 0.8,
+    "tip": 2.3,
+    "amount": 10.1
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:57:54",
+    "dropoff": "2018-11-01T01:17:53",
+    "passengers": 1,
+    "distance": 4.8,
+    "tip": 0,
+    "amount": 18.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:57:54",
+    "dropoff": "2018-11-01T01:07:01",
+    "passengers": 1,
+    "distance": 1.5,
+    "tip": 1.85,
+    "amount": 11.15
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:57:54",
+    "dropoff": "2018-11-01T01:07:31",
+    "passengers": 1,
+    "distance": 2.6,
+    "tip": 3.54,
+    "amount": 15.34
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:57:54",
+    "dropoff": "2018-11-01T00:58:58",
+    "passengers": 1,
+    "distance": 0.31,
+    "tip": 0,
+    "amount": 4.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:57:55",
+    "dropoff": "2018-11-01T00:57:56",
+    "passengers": 1,
+    "distance": 0.06,
+    "tip": 0,
+    "amount": 3.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:57:57",
+    "dropoff": "2018-11-01T01:01:24",
+    "passengers": 1,
+    "distance": 0.6,
+    "tip": 1.15,
+    "amount": 6.95
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:58:05",
+    "dropoff": "2018-11-01T01:11:24",
+    "passengers": 1,
+    "distance": 1.44,
+    "tip": 2.88,
+    "amount": 14.18
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:58:09",
+    "dropoff": "2018-11-01T01:09:39",
+    "passengers": 5,
+    "distance": 1.1,
+    "tip": 0,
+    "amount": 9.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:58:13",
+    "dropoff": "2018-11-01T01:07:26",
+    "passengers": 1,
+    "distance": 1.89,
+    "tip": 1.96,
+    "amount": 11.76
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:58:18",
+    "dropoff": "2018-11-01T01:03:54",
+    "passengers": 1,
+    "distance": 1.43,
+    "tip": 1.56,
+    "amount": 9.36
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:58:18",
+    "dropoff": "2018-11-01T01:11:25",
+    "passengers": 3,
+    "distance": 1.13,
+    "tip": 0,
+    "amount": 10.8
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:58:21",
+    "dropoff": "2018-11-01T01:02:45",
+    "passengers": 1,
+    "distance": 0.85,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:58:21",
+    "dropoff": "2018-11-01T01:13:38",
+    "passengers": 2,
+    "distance": 6.58,
+    "tip": 0,
+    "amount": 21.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:58:22",
+    "dropoff": "2018-11-01T01:02:21",
+    "passengers": 1,
+    "distance": 0.6,
+    "tip": 0,
+    "amount": 6.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:58:23",
+    "dropoff": "2018-11-01T01:06:54",
+    "passengers": 1,
+    "distance": 1.7,
+    "tip": 0,
+    "amount": 9.3
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:58:24",
+    "dropoff": "2018-11-01T00:59:44",
+    "passengers": 1,
+    "distance": 0.5,
+    "tip": 0.95,
+    "amount": 5.75
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:58:26",
+    "dropoff": "2018-11-01T01:20:55",
+    "passengers": 1,
+    "distance": 9.61,
+    "tip": 0,
+    "amount": 29.3
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:58:26",
+    "dropoff": "2018-11-01T01:08:50",
+    "passengers": 5,
+    "distance": 3.17,
+    "tip": 1,
+    "amount": 13.8
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:58:33",
+    "dropoff": "2018-11-01T01:10:49",
+    "passengers": 3,
+    "distance": 1.6,
+    "tip": 2.7,
+    "amount": 13.5
+  },
+  {
+    "vendor": 1,
+    "pickup": "2018-11-01T00:58:38",
+    "dropoff": "2018-11-01T01:20:08",
+    "passengers": 2,
+    "distance": 2.4,
+    "tip": 3.25,
+    "amount": 19.55
+  },
+  {
+    "vendor": 2,
+    "pickup": "2018-11-01T00:58:41",
+    "dropoff": "2018-11-01T01:03:55",
+    "passengers": 1,
+    "distance": 1.02,
+    "tip": 1.36,
+    "amount": 8.16
+  }
+]
